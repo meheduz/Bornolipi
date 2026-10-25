@@ -1,0 +1,69 @@
+# Manual release preparation. It builds a universal app, signs and notarizes it when the
+# signing secrets exist, and attaches the DMG to a DRAFT release, which stays private until a
+# maintainer reviews and publishes it by hand. It never runs on its own.
+#
+# Secrets (all optional; without them the DMG is ad-hoc signed and not notarized):
+#   DEVELOPER_ID_P12_BASE64, DEVELOPER_ID_P12_PASSWORD, DEVELOPER_ID_NAME ("Developer ID Application: Name (TEAMID)")
+#   NOTARY_APPLE_ID, NOTARY_TEAM_ID, NOTARY_PASSWORD (an app-specific password)
+name: Release
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: macos-15
+    # Only this job may write, and only to create the draft release.
+    permissions:
+      contents: write
+    env:
+      HAS_SIGNING: ${{ secrets.DEVELOPER_ID_P12_BASE64 != '' }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false   # build steps never see a token that can push
+      - name: Test
+        run: swift test
+      - name: Import signing certificate
+        env:
+          P12: ${{ secrets.DEVELOPER_ID_P12_BASE64 }}
+          P12_PASSWORD: ${{ secrets.DEVELOPER_ID_P12_PASSWORD }}
+        if: env.HAS_SIGNING == 'true'
+        run: |
+          KEYCHAIN="$RUNNER_TEMP/signing.keychain-db"
+          security create-keychain -p "" "$KEYCHAIN"
+          security set-keychain-settings -lut 3600 "$KEYCHAIN"
+          security unlock-keychain -p "" "$KEYCHAIN"
+          echo "$P12" | base64 --decode > "$RUNNER_TEMP/id.p12"
+          security import "$RUNNER_TEMP/id.p12" -k "$KEYCHAIN" -P "$P12_PASSWORD" -T /usr/bin/codesign
+          security set-key-partition-list -S apple-tool:,apple: -s -k "" "$KEYCHAIN"
+          security list-keychains -d user -s "$KEYCHAIN" $(security list-keychains -d user | tr -d '"')
+      - name: Build, sign, package, notarize
+        env:
+          SIGN_IDENTITY: ${{ secrets.DEVELOPER_ID_NAME }}
+          NOTARY_APPLE_ID: ${{ secrets.NOTARY_APPLE_ID }}
+          NOTARY_TEAM_ID: ${{ secrets.NOTARY_TEAM_ID }}
+          NOTARY_PASSWORD: ${{ secrets.NOTARY_PASSWORD }}
+        run: |
+          export SIGN_IDENTITY="${SIGN_IDENTITY:--}"
+          ARCHS="arm64 x86_64" scripts/build.sh
+          python3 -m venv build/.venv && build/.venv/bin/pip install -q dmgbuild==1.6.5
+          scripts/make-dmg.sh
+          if [ -n "$NOTARY_APPLE_ID" ] && [ "$SIGN_IDENTITY" != "-" ]; then
+            xcrun notarytool store-credentials ci --apple-id "$NOTARY_APPLE_ID" --team-id "$NOTARY_TEAM_ID" --password "$NOTARY_PASSWORD"
+            NOTARY_PROFILE=ci scripts/notarize.sh
+          fi
+      - name: Verify the packaged app before attaching it
+        run: scripts/check-release.sh "build/Bornolipi-$(cat VERSION).dmg"
+      - name: Draft release (not published)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="$(cat VERSION)"
+          shasum -a 256 "build/Bornolipi-$VERSION.dmg" > "build/Bornolipi-$VERSION.dmg.sha256"
+          gh release create "v$VERSION" --draft --title "Bornolipi $VERSION" --notes-file CHANGELOG.md \
+            "build/Bornolipi-$VERSION.dmg" "build/Bornolipi-$VERSION.dmg.sha256"
+      - name: Remove signing material
+        if: always()
+        run: |
+          security delete-keychain "$RUNNER_TEMP/signing.keychain-db" 2>/dev/null || true
+          rm -f "$RUNNER_TEMP/id.p12"

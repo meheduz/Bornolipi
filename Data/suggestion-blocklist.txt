@@ -1,0 +1,54 @@
+# bornolipi.suggestion-blocklist	1
+# Words Bornolipi never appends on its own: obscenities and slurs. It applies only to the words added
+# after the engine's own list (the loanword retriever's words and the loose words 0.1.0 did not
+# offer), never to the exact conversion, the dictionary, learned or personal words, autocorrections
+# or the typed English word. A user who types such a word still gets Avro's output, and Space never
+# changes. Read by Sources/BanglaEngine/SuggestionBlocklist.swift; a missing file blocks nothing.
+# Line formats (tab-separated; # starts a comment):
+#   stem    TEXT    blocks every word containing TEXT
+#   prefix  TEXT    blocks every word starting with TEXT
+#   word    TEXT    blocks exactly TEXT (short or ambiguous items)
+# Entries and candidates are compared in one form: NFC, ড় ঢ় য় as single code points, ো ৌ composed,
+# no ZWJ/ZWNJ, so the Unicode spelling of either never matters.
+# Reviewing a change: list every Data/dictionary.json word and loanword-lexicon.tsv word the entry
+# matches (normalised as above) and make sure none is an ordinary word. চোদ্দ (fourteen), গুদাম
+# (warehouse), উঁচুদের, নিমকহারামি and the verb মাগা (মাগিতে, মাগিবি) must stay unblocked: that is
+# why চুদ and হারামি are prefixes and মাগি is a list of whole words. Dictionary words each entry
+# matches today are noted after it.
+stem	চোদা
+stem	চোদে
+stem	চোদন
+stem	বোকাচো
+stem	বোকচোদ
+stem	বকচোদ
+stem	ভোকচোদ
+stem	মাদারচো
+prefix	চুদ	# চুদ
+stem	খানকি	# খানকি খানকিখোর খানকিগিরি খানকিপনা খানকিবাজ খানকিবাজি
+word	মাগি
+word	মাগির
+word	মাগিকে
+word	মাগিবাড়ি
+prefix	মাগিটা
+stem	মাগী	# মাগী মাগীবাড়ি
+stem	বেশ্যা	# বেশ্যা বেশ্যাগমন বেশ্যাগিরি বেশ্যাবাড়ি বেশ্যাবৃত্তি বেশ্যালয় স্বর্বেশ্যা
+word	ভোদা	# ভোদা (ভোদাই, "fool", is not blocked)
+stem	গান্ডু
+stem	গাণ্ডু
+stem	রেন্ডি
+stem	ছিনাল	# ছিনাল ছিনালি ছিনালী
+stem	হারামজাদ	# হারামজাদ হারামজাদা হারামজাদাগিরি হারামজাদি হারামজাদী
+prefix	হারামি	# হারামি
+stem	বাঁড়া	# বাঁড়া
+stem	চুতিয়া	# চুতিয়া
+stem	চুতমারান	# চুতমারানি
+stem	বাঞ্চোত
+stem	বানচোদ
+stem	বাইনচোদ
+word	চুত
+word	গুদ	# (গুদাম, "warehouse", is not blocked)
+word	ধোন	# whole words: ধোনা, ধোনকার (carding cotton), ধোনে and the name ধোনি stay unblocked
+word	ধোনের
+word	ধোনটা
+prefix	পোঁদ	# পোঁদ পোঁদপাকা
+prefix	কুত্তারবাচ্চা

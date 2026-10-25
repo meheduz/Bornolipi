@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>en</string>
+    <key>CFBundleExecutable</key><string>Bornolipi</string>
+    <key>CFBundleIdentifier</key><string>__APP_ID__</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>__NAME__</string>
+    <key>CFBundleDisplayName</key><string>__NAME__</string>
+    <!-- The keyboard this app installs, and where that keyboard keeps its data. -->
+    <key>BornolipiKeyboardBundleID</key><string>__IME_ID__</string>
+    <key>BornolipiKeyboardBundleName</key><string>__IME_BUNDLE__</string>
+    <key>BornolipiDataFolder</key><string>__DATA_FOLDER__</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>__VERSION__</string>
+    <key>CFBundleVersion</key><string>__BUILD__</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSHumanReadableCopyright</key><string>MPL-2.0. Rule and dictionary data by the OpenBangla project.</string>
+</dict>
+</plist>

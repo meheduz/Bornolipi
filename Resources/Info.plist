@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>en</string>
+    <key>CFBundleExecutable</key><string>__IME_EXEC__</string>
+    <!-- Where this keyboard keeps personal words and learned choices (~/Library/Application Support/<folder>). -->
+    <key>BornolipiDataFolder</key><string>__DATA_FOLDER__</string>
+    <key>CFBundleIdentifier</key><string>__IME_ID__</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>__NAME__</string>
+    <key>CFBundleDisplayName</key><string>__NAME__</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>__VERSION__</string>
+    <key>CFBundleVersion</key><string>__BUILD__</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSSupportsSuddenTermination</key><true/>
+    <key>NSHumanReadableCopyright</key><string>MPL-2.0. Rule and dictionary data by the OpenBangla project.</string>
+
+    <!-- InputMethodKit. Keys follow Apple's own Indic phonetic input method (TamilIM.app). -->
+    <key>InputMethodConnectionName</key><string>__CONNECTION__</string>
+    <key>InputMethodServerControllerClass</key><string>BornolipiInputController</string>
+    <key>TISInputSourceID</key><string>__IME_ID__</string>
+    <key>TISIntendedLanguage</key><string>bn</string>
+    <key>TISIconIsTemplate</key><true/>
+    <key>TICapsLockLanguageSwitchCapable</key><true/>
+    <key>tsInputMethodCharacterRepertoireKey</key>
+    <array><string>Beng</string></array>
+    <key>tsInputMethodIconFileKey</key><string>InputIcon.tiff</string>
+
+    <!-- The mode's display name comes from InfoPlist.strings, keyed by the mode ID. -->
+    <key>ComponentInputModeDict</key>
+    <dict>
+        <key>tsInputModeListKey</key>
+        <dict>
+            <key>__IME_ID__.Phonetic</key>
+            <dict>
+                <key>TISInputSourceID</key><string>__IME_ID__.Phonetic</string>
+                <key>TISIntendedLanguage</key><string>bn</string>
+                <key>TISIconLabels</key>
+                <dict><key>Primary</key><string>অ</string></dict>
+                <!-- Apple's phonetic Tamil Anjal mode uses smUnicodeScript too. -->
+                <key>tsInputModeScriptKey</key><string>smUnicodeScript</string>
+                <key>TICapsLockLanguageSwitchCapable</key><true/>
+                <key>tsInputModeIsVisibleKey</key><true/>
+                <key>tsInputModeDefaultStateKey</key><true/>
+                <key>tsInputModePrimaryInputModeKey</key><true/>
+                <key>tsInputModePrimaryInScriptKey</key><true/>
+                <key>tsInputModeMenuIconFileKey</key><string>InputIcon.tiff</string>
+                <key>tsInputModePaletteIconFileKey</key><string>InputIcon.tiff</string>
+            </dict>
+        </dict>
+        <key>tsVisibleInputModeOrderedArrayKey</key>
+        <array><string>__IME_ID__.Phonetic</string></array>
+    </dict>
+</dict>
+</plist>

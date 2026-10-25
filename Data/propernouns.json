@@ -1,0 +1,7703 @@
+{
+ "format": "bornolipi.propernouns",
+ "version": 1,
+ "note": "Bangladeshi place, institution and personal names, offered after the exact Avro conversion; they never change what Space inserts. Each spelling was read from the listed source and confirmed by an independent one (verifiedBy); spellings the two sources disagreed on are left out. Names are factual data; sources are listed for verification.",
+ "entries": [
+  {
+   "roman": [
+    "keraniganj",
+    "keranigonj"
+   ],
+   "bangla": [
+    "কেরানীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Keraniganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dohar"
+   ],
+   "bangla": [
+    "দোহার"
+   ],
+   "kind": "upazila",
+   "english": "Dohar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dhamrai"
+   ],
+   "bangla": [
+    "ধামরাই"
+   ],
+   "kind": "upazila",
+   "english": "Dhamrai",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nawabganj",
+    "nobabgonj"
+   ],
+   "bangla": [
+    "নবাবগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Nawabganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "savar",
+    "shavar"
+   ],
+   "bangla": [
+    "সাভার"
+   ],
+   "kind": "upazila",
+   "english": "Savar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "alfadanga"
+   ],
+   "bangla": [
+    "আলফাডাঙ্গা"
+   ],
+   "kind": "upazila",
+   "english": "Alfadanga",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bhanga",
+    "vanga"
+   ],
+   "bangla": [
+    "ভাঙ্গা"
+   ],
+   "kind": "upazila",
+   "english": "Bhanga",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "boalmari"
+   ],
+   "bangla": [
+    "বোয়ালমারী"
+   ],
+   "kind": "upazila",
+   "english": "Boalmari",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "charbhadrasan",
+    "chorbhodrason"
+   ],
+   "bangla": [
+    "চরভদ্রাসন"
+   ],
+   "kind": "upazila",
+   "english": "Charbhadrasan",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "faridpursadar"
+   ],
+   "bangla": [
+    "ফরিদপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Faridpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "madhukhali",
+    "modhukhali"
+   ],
+   "bangla": [
+    "মধুখালী"
+   ],
+   "kind": "upazila",
+   "english": "Madhukhali",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nagarkanda",
+    "nogorkanda"
+   ],
+   "bangla": [
+    "নগরকান্দা"
+   ],
+   "kind": "upazila",
+   "english": "Nagarkanda",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sadarpur",
+    "shodorpur"
+   ],
+   "bangla": [
+    "সদরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sadarpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "saltha"
+   ],
+   "bangla": [
+    "সালথা"
+   ],
+   "kind": "upazila",
+   "english": "Saltha",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gazipursadar"
+   ],
+   "bangla": [
+    "গাজীপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Gazipur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kaliakair",
+    "kaliakoir"
+   ],
+   "bangla": [
+    "কালিয়াকৈর"
+   ],
+   "kind": "upazila",
+   "english": "Kaliakair",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kaliganj",
+    "kaligonj"
+   ],
+   "bangla": [
+    "কালীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Kaliganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kapasia"
+   ],
+   "bangla": [
+    "কাপাসিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kapasia",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sreepur",
+    "sripur"
+   ],
+   "bangla": [
+    "শ্রীপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sreepur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kashiani"
+   ],
+   "bangla": [
+    "কাশিয়ানী"
+   ],
+   "kind": "upazila",
+   "english": "Kashiani",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kotalipara"
+   ],
+   "bangla": [
+    "কোটালীপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Kotalipara",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "maksudpur",
+    "muksudpur"
+   ],
+   "bangla": [
+    "মুকসুদপুর"
+   ],
+   "kind": "upazila",
+   "english": "Muksudpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "tungipara"
+   ],
+   "bangla": [
+    "টুঙ্গিপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Tungipara",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "austagram",
+    "ostogram"
+   ],
+   "bangla": [
+    "অষ্টগ্রাম"
+   ],
+   "kind": "upazila",
+   "english": "Austagram",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bajitpur"
+   ],
+   "bangla": [
+    "বাজিতপুর"
+   ],
+   "kind": "upazila",
+   "english": "Bajitpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bhairab",
+    "bhoirob"
+   ],
+   "bangla": [
+    "ভৈরব"
+   ],
+   "kind": "upazila",
+   "english": "Bhairab",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "hosenpur",
+    "hossainpur"
+   ],
+   "bangla": [
+    "হোসেনপুর"
+   ],
+   "kind": "upazila",
+   "english": "Hossainpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "itna"
+   ],
+   "bangla": [
+    "ইটনা"
+   ],
+   "kind": "upazila",
+   "english": "Itna",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "karimganj",
+    "korimgonj"
+   ],
+   "bangla": [
+    "করিমগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Karimganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kishoreganjsadar"
+   ],
+   "bangla": [
+    "কিশোরগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Kishoreganj Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kuliarchar",
+    "kuliarchor"
+   ],
+   "bangla": [
+    "কুলিয়ারচর"
+   ],
+   "kind": "upazila",
+   "english": "Kuliarchar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "mithamain",
+    "mithamoin"
+   ],
+   "bangla": [
+    "মিঠামইন"
+   ],
+   "kind": "upazila",
+   "english": "Mithamain",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nikli"
+   ],
+   "bangla": [
+    "নিকলী"
+   ],
+   "kind": "upazila",
+   "english": "Nikli",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "pakundia"
+   ],
+   "bangla": [
+    "পাকুন্দিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Pakundia",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "tarail"
+   ],
+   "bangla": [
+    "তাড়াইল"
+   ],
+   "kind": "upazila",
+   "english": "Tarail",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kalkini"
+   ],
+   "bangla": [
+    "কালকিনি"
+   ],
+   "kind": "upazila",
+   "english": "Kalkini",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dasar"
+   ],
+   "bangla": [
+    "ডাসার"
+   ],
+   "kind": "upazila",
+   "english": "Dasar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "madaripursadar"
+   ],
+   "bangla": [
+    "মাদারীপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Madaripur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "rajair",
+    "rajoir"
+   ],
+   "bangla": [
+    "রাজৈর"
+   ],
+   "kind": "upazila",
+   "english": "Rajoir",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "shibchar",
+    "shibchor"
+   ],
+   "bangla": [
+    "শিবচর"
+   ],
+   "kind": "upazila",
+   "english": "Shibchar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "daulatpur",
+    "doulotpur"
+   ],
+   "bangla": [
+    "দৌলতপুর"
+   ],
+   "kind": "upazila",
+   "english": "Daulatpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "ghior"
+   ],
+   "bangla": [
+    "ঘিওর"
+   ],
+   "kind": "upazila",
+   "english": "Ghior",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "harirampur",
+    "horirampur"
+   ],
+   "bangla": [
+    "হরিরামপুর"
+   ],
+   "kind": "upazila",
+   "english": "Harirampur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "saturia"
+   ],
+   "bangla": [
+    "সাটুরিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Saturia",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "shibalaya",
+    "shibaloy"
+   ],
+   "bangla": [
+    "শিবালয়"
+   ],
+   "kind": "upazila",
+   "english": "Shibalaya",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "singair"
+   ],
+   "bangla": [
+    "সিঙ্গাইর"
+   ],
+   "kind": "upazila",
+   "english": "Singair",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gazaria",
+    "gojaria"
+   ],
+   "bangla": [
+    "গজারিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Gazaria",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "lohajang",
+    "louhajong"
+   ],
+   "bangla": [
+    "লৌহজং"
+   ],
+   "kind": "upazila",
+   "english": "Lohajang",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "munshiganjsadar"
+   ],
+   "bangla": [
+    "মুন্সীগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Munshiganj Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sirajdikhan"
+   ],
+   "bangla": [
+    "সিরাজদিখান"
+   ],
+   "kind": "upazila",
+   "english": "Sirajdikhan",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sreenagar",
+    "srinagar"
+   ],
+   "bangla": [
+    "শ্রীনগর"
+   ],
+   "kind": "upazila",
+   "english": "Sreenagar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "tongibari"
+   ],
+   "bangla": [
+    "টংগিবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Tongibari",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "araihazar"
+   ],
+   "bangla": [
+    "আড়াইহাজার"
+   ],
+   "kind": "upazila",
+   "english": "Araihazar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sonargao",
+    "sonargaon"
+   ],
+   "bangla": [
+    "সোনারগাঁও"
+   ],
+   "kind": "upazila",
+   "english": "Sonargaon",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bandar",
+    "bondor"
+   ],
+   "bangla": [
+    "বন্দর"
+   ],
+   "kind": "upazila",
+   "english": "Bandar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "narayanganjsadar"
+   ],
+   "bangla": [
+    "নারায়ণগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Narayanganj Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "rupganj",
+    "rupgonj"
+   ],
+   "bangla": [
+    "রূপগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Rupganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "belabo"
+   ],
+   "bangla": [
+    "বেলাবো"
+   ],
+   "kind": "upazila",
+   "english": "Belabo",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "monohardi",
+    "monohordi"
+   ],
+   "bangla": [
+    "মনোহরদী"
+   ],
+   "kind": "upazila",
+   "english": "Monohardi",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "narsingdisadar"
+   ],
+   "bangla": [
+    "নরসিংদী সদর"
+   ],
+   "kind": "upazila",
+   "english": "Narsingdi Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "palash",
+    "polash"
+   ],
+   "bangla": [
+    "পলাশ"
+   ],
+   "kind": "upazila",
+   "english": "Palash",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "raipura"
+   ],
+   "bangla": [
+    "রায়পুরা"
+   ],
+   "kind": "upazila",
+   "english": "Raipura",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "shibpur",
+    "sibpur"
+   ],
+   "bangla": [
+    "শিবপুর"
+   ],
+   "kind": "upazila",
+   "english": "Shibpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "baliakandi"
+   ],
+   "bangla": [
+    "বালিয়াকান্দি"
+   ],
+   "kind": "upazila",
+   "english": "Baliakandi",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "goalanda",
+    "goalondo"
+   ],
+   "bangla": [
+    "গোয়ালন্দ"
+   ],
+   "kind": "upazila",
+   "english": "Goalanda",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "pangsa",
+    "pangsha"
+   ],
+   "bangla": [
+    "পাংশা"
+   ],
+   "kind": "upazila",
+   "english": "Pangsha",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "rajbarisadar"
+   ],
+   "bangla": [
+    "রাজবাড়ী সদর"
+   ],
+   "kind": "upazila",
+   "english": "Rajbari Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kalukhali"
+   ],
+   "bangla": [
+    "কালুখালী"
+   ],
+   "kind": "upazila",
+   "english": "Kalukhali",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bhedarganj",
+    "bhedorgonj"
+   ],
+   "bangla": [
+    "ভেদরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Bhedarganj",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "damudda",
+    "damudya"
+   ],
+   "bangla": [
+    "ডামুড্যা"
+   ],
+   "kind": "upazila",
+   "english": "Damudya",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gosairhat"
+   ],
+   "bangla": [
+    "গোসাইরহাট"
+   ],
+   "kind": "upazila",
+   "english": "Gosairhat",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "naria",
+    "noria"
+   ],
+   "bangla": [
+    "নড়িয়া"
+   ],
+   "kind": "upazila",
+   "english": "Naria",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "shariatpursadar"
+   ],
+   "bangla": [
+    "শরীয়তপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Shariatpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "jajira",
+    "zajira"
+   ],
+   "bangla": [
+    "জাজিরা"
+   ],
+   "kind": "upazila",
+   "english": "Zajira",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "basail"
+   ],
+   "bangla": [
+    "বাসাইল"
+   ],
+   "kind": "upazila",
+   "english": "Basail",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bhuapur",
+    "bhuyapur"
+   ],
+   "bangla": [
+    "ভূঞাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Bhuapur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "delduar"
+   ],
+   "bangla": [
+    "দেলদুয়ার"
+   ],
+   "kind": "upazila",
+   "english": "Delduar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "ghatail"
+   ],
+   "bangla": [
+    "ঘাটাইল"
+   ],
+   "kind": "upazila",
+   "english": "Ghatail",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gopalpur"
+   ],
+   "bangla": [
+    "গোপালপুর"
+   ],
+   "kind": "upazila",
+   "english": "Gopalpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kalihati"
+   ],
+   "bangla": [
+    "কালিহাতী"
+   ],
+   "kind": "upazila",
+   "english": "Kalihati",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "madhupur",
+    "modhupur"
+   ],
+   "bangla": [
+    "মধুপুর"
+   ],
+   "kind": "upazila",
+   "english": "Madhupur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "mirjapur",
+    "mirzapur"
+   ],
+   "bangla": [
+    "মির্জাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Mirzapur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nagarpur",
+    "nagorpur"
+   ],
+   "bangla": [
+    "নাগরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Nagarpur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sakhipur",
+    "shokhipur"
+   ],
+   "bangla": [
+    "সখিপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sakhipur",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "tangailsadar"
+   ],
+   "bangla": [
+    "টাঙ্গাইল সদর"
+   ],
+   "kind": "upazila",
+   "english": "Tangail Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dhanbari",
+    "dhonbari"
+   ],
+   "bangla": [
+    "ধনবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Dhanbari",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "anowara",
+    "anwara"
+   ],
+   "bangla": [
+    "আনোয়ারা"
+   ],
+   "kind": "upazila",
+   "english": "Anwara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "karnafuli",
+    "karnaphuli"
+   ],
+   "bangla": [
+    "কর্ণফুলী"
+   ],
+   "kind": "upazila",
+   "english": "Karnaphuli",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "chandanaesh",
+    "chandanaish"
+   ],
+   "bangla": [
+    "চন্দনাইশ"
+   ],
+   "kind": "upazila",
+   "english": "Chandanaish",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "patiya",
+    "potiya"
+   ],
+   "bangla": [
+    "পটিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Patiya",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "fatikchari",
+    "fatikchhari",
+    "fotikchori"
+   ],
+   "bangla": [
+    "ফটিকছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Fatikchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "banshkhali",
+    "bashkhali"
+   ],
+   "bangla": [
+    "বাঁশখালী"
+   ],
+   "kind": "upazila",
+   "english": "Banshkhali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "boalkhali",
+    "boyalkhali"
+   ],
+   "bangla": [
+    "বোয়ালখালী"
+   ],
+   "kind": "upazila",
+   "english": "Boalkhali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "mirsarai",
+    "mirsharai",
+    "mirshorai"
+   ],
+   "bangla": [
+    "মীরসরাই"
+   ],
+   "kind": "upazila",
+   "english": "Mirsharai",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "raojan",
+    "raozan"
+   ],
+   "bangla": [
+    "রাউজান"
+   ],
+   "kind": "upazila",
+   "english": "Raozan",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "rangunia",
+    "ranguniya"
+   ],
+   "bangla": [
+    "রাঙ্গুনিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Rangunia",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "lohagara",
+    "lohagora"
+   ],
+   "bangla": [
+    "লোহাগাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Lohagara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "sandip",
+    "sandwip",
+    "sondip"
+   ],
+   "bangla": [
+    "সন্দ্বীপ"
+   ],
+   "kind": "upazila",
+   "english": "Sandwip",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "satkania",
+    "satkaniya"
+   ],
+   "bangla": [
+    "সাতকানিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Satkania",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "sitakunda",
+    "sitakundo"
+   ],
+   "bangla": [
+    "সীতাকুণ্ড"
+   ],
+   "kind": "upazila",
+   "english": "Sitakunda",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "hathajari",
+    "hathazari"
+   ],
+   "bangla": [
+    "হাটহাজারী"
+   ],
+   "kind": "upazila",
+   "english": "Hathazari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চট্টগ্রাম_জেলা"
+  },
+  {
+   "roman": [
+    "ukhia",
+    "ukhiya"
+   ],
+   "bangla": [
+    "উখিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Ukhia",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "kutubdia",
+    "kutubdiya"
+   ],
+   "bangla": [
+    "কুতুবদিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kutubdia",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "chakaria",
+    "chakoria",
+    "chokoria"
+   ],
+   "bangla": [
+    "চকরিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Chakaria",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "teknaf"
+   ],
+   "bangla": [
+    "টেকনাফ"
+   ],
+   "kind": "upazila",
+   "english": "Teknaf",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "pekua",
+    "pekuya"
+   ],
+   "bangla": [
+    "পেকুয়া"
+   ],
+   "kind": "upazila",
+   "english": "Pekua",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "maheshkhali",
+    "moheshkhali"
+   ],
+   "bangla": [
+    "মহেশখালী"
+   ],
+   "kind": "upazila",
+   "english": "Maheshkhali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "ramu"
+   ],
+   "bangla": [
+    "রামু"
+   ],
+   "kind": "upazila",
+   "english": "Ramu",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "eidgao",
+    "eidgaon",
+    "idgaon"
+   ],
+   "bangla": [
+    "ঈদগাঁও"
+   ],
+   "kind": "upazila",
+   "english": "Eidgaon",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কক্সবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "alikadam",
+    "alikodom"
+   ],
+   "bangla": [
+    "আলীকদম"
+   ],
+   "kind": "upazila",
+   "english": "Alikadam",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "thanchi"
+   ],
+   "bangla": [
+    "থানচি"
+   ],
+   "kind": "upazila",
+   "english": "Thanchi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "naikhongchari",
+    "naikhongchhari",
+    "naikkhongchori"
+   ],
+   "bangla": [
+    "নাইক্ষ্যংছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Naikhongchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "ruma"
+   ],
+   "bangla": [
+    "রুমা"
+   ],
+   "kind": "upazila",
+   "english": "Ruma",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "roangchori",
+    "rowangchari",
+    "rowangchhari"
+   ],
+   "bangla": [
+    "রোয়াংছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Rowangchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "lama"
+   ],
+   "bangla": [
+    "লামা"
+   ],
+   "kind": "upazila",
+   "english": "Lama",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বান্দরবান_জেলা"
+  },
+  {
+   "roman": [
+    "dighinala"
+   ],
+   "bangla": [
+    "দীঘিনালা"
+   ],
+   "kind": "upazila",
+   "english": "Dighinala",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "panchari",
+    "panchhari",
+    "panchori"
+   ],
+   "bangla": [
+    "পানছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Panchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "mahalchari",
+    "mahalchhari",
+    "mohalchori"
+   ],
+   "bangla": [
+    "মহালছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Mahalchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "matiranga"
+   ],
+   "bangla": [
+    "মাটিরাঙ্গা"
+   ],
+   "kind": "upazila",
+   "english": "Matiranga",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "manikchari",
+    "manikchhari",
+    "manikchori"
+   ],
+   "bangla": [
+    "মানিকছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Manikchhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "ramgarh",
+    "ramgor"
+   ],
+   "bangla": [
+    "রামগড়"
+   ],
+   "kind": "upazila",
+   "english": "Ramgarh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "lakshmichhari",
+    "laxmichhari",
+    "lokkhichori"
+   ],
+   "bangla": [
+    "লক্ষ্মীছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Lakshmichhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "guimara"
+   ],
+   "bangla": [
+    "গুইমারা"
+   ],
+   "kind": "upazila",
+   "english": "Guimara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খাগড়াছড়ি_জেলা"
+  },
+  {
+   "roman": [
+    "kaukhali",
+    "kawkhali"
+   ],
+   "bangla": [
+    "কাউখালী"
+   ],
+   "kind": "upazila",
+   "english": "Kawkhali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "kaptai"
+   ],
+   "bangla": [
+    "কাপ্তাই"
+   ],
+   "kind": "upazila",
+   "english": "Kaptai",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "jurachhari",
+    "jurachori",
+    "juraichhari"
+   ],
+   "bangla": [
+    "জুরাছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Juraichhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "naniarchar",
+    "naniyarchor"
+   ],
+   "bangla": [
+    "নানিয়ারচর"
+   ],
+   "kind": "upazila",
+   "english": "Naniarchar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "barkal",
+    "borkol"
+   ],
+   "bangla": [
+    "বরকল"
+   ],
+   "kind": "upazila",
+   "english": "Barkal",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "baghaichari",
+    "baghaichhari",
+    "baghaichori"
+   ],
+   "bangla": [
+    "বাঘাইছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Baghaichhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "belaichhari",
+    "bilaichhari",
+    "bilaichori"
+   ],
+   "bangla": [
+    "বিলাইছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Belaichhari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "rajasthali",
+    "rajostholi"
+   ],
+   "bangla": [
+    "রাজস্থলী"
+   ],
+   "kind": "upazila",
+   "english": "Rajasthali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "langadu",
+    "longodu"
+   ],
+   "bangla": [
+    "লংগদু"
+   ],
+   "kind": "upazila",
+   "english": "Langadu",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/রাঙ্গামাটি_পার্বত্য_জেলা"
+  },
+  {
+   "roman": [
+    "begumganj",
+    "begumgonj"
+   ],
+   "bangla": [
+    "বেগমগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Begumganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "chatkhil"
+   ],
+   "bangla": [
+    "চাটখিল"
+   ],
+   "kind": "upazila",
+   "english": "Chatkhil",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "companiganj",
+    "companigonj",
+    "kompanigonj"
+   ],
+   "bangla": [
+    "কোম্পানীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Companiganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "hatia",
+    "hatiya"
+   ],
+   "bangla": [
+    "হাতিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Hatiya",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "senbag",
+    "senbagh"
+   ],
+   "bangla": [
+    "সেনবাগ"
+   ],
+   "kind": "upazila",
+   "english": "Senbagh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "subarnachar",
+    "subornochor"
+   ],
+   "bangla": [
+    "সুবর্ণচর"
+   ],
+   "kind": "upazila",
+   "english": "Subarnachar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "sonaimuri",
+    "sonaimuriupazila"
+   ],
+   "bangla": [
+    "সোনাইমুড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Sonaimuri",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "kabirhat",
+    "kobirhat"
+   ],
+   "bangla": [
+    "কবিরহাট"
+   ],
+   "kind": "upazila",
+   "english": "Kabirhat",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নোয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "kamalnagar",
+    "komolnogor"
+   ],
+   "bangla": [
+    "কমলনগর"
+   ],
+   "kind": "upazila",
+   "english": "Kamalnagar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/লক্ষ্মীপুর_জেলা"
+  },
+  {
+   "roman": [
+    "ramganj",
+    "ramgonj"
+   ],
+   "bangla": [
+    "রামগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Ramganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/লক্ষ্মীপুর_জেলা"
+  },
+  {
+   "roman": [
+    "ramgati",
+    "ramgoti"
+   ],
+   "bangla": [
+    "রামগতি"
+   ],
+   "kind": "upazila",
+   "english": "Ramgati",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/লক্ষ্মীপুর_জেলা"
+  },
+  {
+   "roman": [
+    "raipur",
+    "raypur"
+   ],
+   "bangla": [
+    "রায়পুর"
+   ],
+   "kind": "upazila",
+   "english": "Raipur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/লক্ষ্মীপুর_জেলা"
+  },
+  {
+   "roman": [
+    "chandraganj",
+    "chondrogonj"
+   ],
+   "bangla": [
+    "চন্দ্রগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Chandraganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/লক্ষ্মীপুর_জেলা"
+  },
+  {
+   "roman": [
+    "daganbhuiya",
+    "daganbhuiyan",
+    "dagonbhuiya"
+   ],
+   "bangla": [
+    "দাগনভূঞা"
+   ],
+   "kind": "upazila",
+   "english": "Daganbhuiyan",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ফেনী_জেলা"
+  },
+  {
+   "roman": [
+    "sonagaji",
+    "sonagazi"
+   ],
+   "bangla": [
+    "সোনাগাজী"
+   ],
+   "kind": "upazila",
+   "english": "Sonagazi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ফেনী_জেলা"
+  },
+  {
+   "roman": [
+    "chagalnaiya",
+    "chhagalnaiya",
+    "sagolnaiya"
+   ],
+   "bangla": [
+    "ছাগলনাইয়া"
+   ],
+   "kind": "upazila",
+   "english": "Chhagalnaiya",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ফেনী_জেলা"
+  },
+  {
+   "roman": [
+    "parshuram",
+    "porshuram"
+   ],
+   "bangla": [
+    "পরশুরাম"
+   ],
+   "kind": "upazila",
+   "english": "Parshuram",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ফেনী_জেলা"
+  },
+  {
+   "roman": [
+    "fulgaji",
+    "fulgazi",
+    "phulgazi"
+   ],
+   "bangla": [
+    "ফুলগাজী"
+   ],
+   "kind": "upazila",
+   "english": "Fulgazi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ফেনী_জেলা"
+  },
+  {
+   "roman": [
+    "muradnagar",
+    "muradnogor"
+   ],
+   "bangla": [
+    "মুরাদনগর"
+   ],
+   "kind": "upazila",
+   "english": "Muradnagar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "bangora",
+    "bangra"
+   ],
+   "bangla": [
+    "বাঙ্গরা"
+   ],
+   "kind": "upazila",
+   "english": "Bangra",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "daudkandi"
+   ],
+   "bangla": [
+    "দাউদকান্দি"
+   ],
+   "kind": "upazila",
+   "english": "Daudkandi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "laksam",
+    "lakshmam"
+   ],
+   "bangla": [
+    "লাকসাম"
+   ],
+   "kind": "upazila",
+   "english": "Laksam",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "chandina"
+   ],
+   "bangla": [
+    "চান্দিনা"
+   ],
+   "kind": "upazila",
+   "english": "Chandina",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "chauddagram",
+    "choddogram",
+    "chouddagram"
+   ],
+   "bangla": [
+    "চৌদ্দগ্রাম"
+   ],
+   "kind": "upazila",
+   "english": "Chauddagram",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "homna"
+   ],
+   "bangla": [
+    "হোমনা"
+   ],
+   "kind": "upazila",
+   "english": "Homna",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "barura",
+    "borura"
+   ],
+   "bangla": [
+    "বরুড়া"
+   ],
+   "kind": "upazila",
+   "english": "Barura",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "burichang",
+    "burichong"
+   ],
+   "bangla": [
+    "বুড়িচং"
+   ],
+   "kind": "upazila",
+   "english": "Burichang",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "brahmanpara",
+    "brammonpara"
+   ],
+   "bangla": [
+    "ব্রাহ্মণপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Brahmanpara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "nangalkot",
+    "nangolkot"
+   ],
+   "bangla": [
+    "নাঙ্গলকোট"
+   ],
+   "kind": "upazila",
+   "english": "Nangalkot",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "meghna"
+   ],
+   "bangla": [
+    "মেঘনা"
+   ],
+   "kind": "upazila",
+   "english": "Meghna",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "titas"
+   ],
+   "bangla": [
+    "তিতাস"
+   ],
+   "kind": "upazila",
+   "english": "Titas",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "manoharganj",
+    "monohorgonj"
+   ],
+   "bangla": [
+    "মনোহরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Manoharganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "lalmai"
+   ],
+   "bangla": [
+    "লালমাই"
+   ],
+   "kind": "upazila",
+   "english": "Lalmai",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুমিল্লা_জেলা"
+  },
+  {
+   "roman": [
+    "hajiganj",
+    "hajigonj"
+   ],
+   "bangla": [
+    "হাজীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Hajiganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "kachua",
+    "kochua"
+   ],
+   "bangla": [
+    "কচুয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kachua",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "faridganj",
+    "foridgonj"
+   ],
+   "bangla": [
+    "ফরিদগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Faridganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "matlabuttar",
+    "motlabuttor"
+   ],
+   "bangla": [
+    "মতলব উত্তর"
+   ],
+   "kind": "upazila",
+   "english": "Matlab Uttar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "matlabdakshin",
+    "motlabdokkhin"
+   ],
+   "bangla": [
+    "মতলব দক্ষিণ"
+   ],
+   "kind": "upazila",
+   "english": "Matlab Dakshin",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "haimchar",
+    "haimchor"
+   ],
+   "bangla": [
+    "হাইমচর"
+   ],
+   "kind": "upazila",
+   "english": "Haimchar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "shahrasthi",
+    "shahrasti"
+   ],
+   "bangla": [
+    "শাহরাস্তি"
+   ],
+   "kind": "upazila",
+   "english": "Shahrasti",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চাঁদপুর_জেলা"
+  },
+  {
+   "roman": [
+    "ashuganj",
+    "ashugonj"
+   ],
+   "bangla": [
+    "আশুগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Ashuganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "akhaora",
+    "akhaura"
+   ],
+   "bangla": [
+    "আখাউড়া"
+   ],
+   "kind": "upazila",
+   "english": "Akhaura",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "kasba",
+    "kosba"
+   ],
+   "bangla": [
+    "কসবা"
+   ],
+   "kind": "upazila",
+   "english": "Kasba",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "nabinagar",
+    "nobinogor"
+   ],
+   "bangla": [
+    "নবীনগর"
+   ],
+   "kind": "upazila",
+   "english": "Nabinagar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "nasirnagar",
+    "nasirnogor"
+   ],
+   "bangla": [
+    "নাসিরনগর"
+   ],
+   "kind": "upazila",
+   "english": "Nasirnagar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "bancharampur",
+    "banchharampur"
+   ],
+   "bangla": [
+    "বাঞ্ছারামপুর"
+   ],
+   "kind": "upazila",
+   "english": "Bancharampur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "sarail",
+    "sorail"
+   ],
+   "bangla": [
+    "সরাইল"
+   ],
+   "kind": "upazila",
+   "english": "Sarail",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "bijaynagar",
+    "bijoynagar",
+    "bijoynogor"
+   ],
+   "bangla": [
+    "বিজয়নগর"
+   ],
+   "kind": "upazila",
+   "english": "Bijoynagar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ব্রাহ্মণবাড়িয়া_জেলা"
+  },
+  {
+   "roman": [
+    "paba"
+   ],
+   "bangla": [
+    "পবা"
+   ],
+   "kind": "upazila",
+   "english": "Paba",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "charghat"
+   ],
+   "bangla": [
+    "চারঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Charghat",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bagha"
+   ],
+   "bangla": [
+    "বাঘা"
+   ],
+   "kind": "upazila",
+   "english": "Bagha",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "puthia",
+    "puthiya"
+   ],
+   "bangla": [
+    "পুঠিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Puthia",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "tanor",
+    "tanore"
+   ],
+   "bangla": [
+    "তানোর"
+   ],
+   "kind": "upazila",
+   "english": "Tanore",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "mohanpur"
+   ],
+   "bangla": [
+    "মোহনপুর"
+   ],
+   "kind": "upazila",
+   "english": "Mohanpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bagmara"
+   ],
+   "bangla": [
+    "বাগমারা"
+   ],
+   "kind": "upazila",
+   "english": "Bagmara",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "godagari"
+   ],
+   "bangla": [
+    "গোদাগাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Godagari",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "natore",
+    "natoresadar"
+   ],
+   "bangla": [
+    "নাটোর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Natore Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "lalpur"
+   ],
+   "bangla": [
+    "লালপুর"
+   ],
+   "kind": "upazila",
+   "english": "Lalpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bagatipara"
+   ],
+   "bangla": [
+    "বাগাতিপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Bagatipara",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "baraigram",
+    "boraigram"
+   ],
+   "bangla": [
+    "বড়াইগ্রাম"
+   ],
+   "kind": "upazila",
+   "english": "Baraigram",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "gurudaspur"
+   ],
+   "bangla": [
+    "গুরুদাসপুর"
+   ],
+   "kind": "upazila",
+   "english": "Gurudaspur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "singra"
+   ],
+   "bangla": [
+    "সিংড়া"
+   ],
+   "kind": "upazila",
+   "english": "Singra",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "naldanga",
+    "noldanga"
+   ],
+   "bangla": [
+    "নলডাঙ্গা"
+   ],
+   "kind": "upazila",
+   "english": "Naldanga",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "chapainawabganj",
+    "chapainawabganjsadar"
+   ],
+   "bangla": [
+    "চাঁপাইনবাবগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Chapai Nawabganj Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "shibganj",
+    "shibgonj"
+   ],
+   "bangla": [
+    "শিবগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Shibganj (Chapai Nawabganj)",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bholahat"
+   ],
+   "bangla": [
+    "ভোলাহাট"
+   ],
+   "kind": "upazila",
+   "english": "Bholahat",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "gomastapur"
+   ],
+   "bangla": [
+    "গোমস্তাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Gomastapur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "nachol",
+    "nachole"
+   ],
+   "bangla": [
+    "নাচোল"
+   ],
+   "kind": "upazila",
+   "english": "Nachole",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sirajganj",
+    "sirajganjsadar"
+   ],
+   "bangla": [
+    "সিরাজগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Sirajganj Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "raiganj",
+    "raygonj"
+   ],
+   "bangla": [
+    "রায়গঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Raiganj",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "kajipur",
+    "kazipur"
+   ],
+   "bangla": [
+    "কাজিপুর"
+   ],
+   "kind": "upazila",
+   "english": "Kazipur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "tarash"
+   ],
+   "bangla": [
+    "তাড়াশ"
+   ],
+   "kind": "upazila",
+   "english": "Tarash",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "shahjadpur",
+    "shahzadpur"
+   ],
+   "bangla": [
+    "শাহজাদপুর"
+   ],
+   "kind": "upazila",
+   "english": "Shahjadpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "ullahpara",
+    "ullapara"
+   ],
+   "bangla": [
+    "উল্লাপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Ullahpara",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "kamarkhanda",
+    "kamarkhondo"
+   ],
+   "bangla": [
+    "কামারখন্দ"
+   ],
+   "kind": "upazila",
+   "english": "Kamarkhanda",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "belkuchi"
+   ],
+   "bangla": [
+    "বেলকুচি"
+   ],
+   "kind": "upazila",
+   "english": "Belkuchi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "chauhali",
+    "chowhali"
+   ],
+   "bangla": [
+    "চৌহালী"
+   ],
+   "kind": "upazila",
+   "english": "Chauhali",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bograsadar",
+    "bogura",
+    "bogurasadar"
+   ],
+   "bangla": [
+    "বগুড়া সদর"
+   ],
+   "kind": "upazila",
+   "english": "Bogra Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "shahjahanpur",
+    "shajahanpur"
+   ],
+   "bangla": [
+    "শাজাহানপুর"
+   ],
+   "kind": "upazila",
+   "english": "Shajahanpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sherpur"
+   ],
+   "bangla": [
+    "শেরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sherpur (Bogra)",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "dhunat"
+   ],
+   "bangla": [
+    "ধুনট"
+   ],
+   "kind": "upazila",
+   "english": "Dhunat",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sariakandi",
+    "shariakandi"
+   ],
+   "bangla": [
+    "সারিয়াকান্দি"
+   ],
+   "kind": "upazila",
+   "english": "Sariakandi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "gabtali",
+    "gabtoli"
+   ],
+   "bangla": [
+    "গাবতলী"
+   ],
+   "kind": "upazila",
+   "english": "Gabtali",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sonatala",
+    "sonatola"
+   ],
+   "bangla": [
+    "সোনাতলা"
+   ],
+   "kind": "upazila",
+   "english": "Sonatala",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "dupchachia",
+    "dupchanchia"
+   ],
+   "bangla": [
+    "দুপচাঁচিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Dupchanchia",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "kahaloo",
+    "kahalu"
+   ],
+   "bangla": [
+    "কাহালু"
+   ],
+   "kind": "upazila",
+   "english": "Kahaloo",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "adamdighi",
+    "adamdigi"
+   ],
+   "bangla": [
+    "আদমদীঘি"
+   ],
+   "kind": "upazila",
+   "english": "Adamdighi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "nandigram"
+   ],
+   "bangla": [
+    "নন্দীগ্রাম"
+   ],
+   "kind": "upazila",
+   "english": "Nandigram",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "jaipurhat",
+    "joypurhat",
+    "joypurhatsadar"
+   ],
+   "bangla": [
+    "জয়পুরহাট সদর"
+   ],
+   "kind": "upazila",
+   "english": "Joypurhat Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "pachbibi",
+    "panchbibi"
+   ],
+   "bangla": [
+    "পাঁচবিবি"
+   ],
+   "kind": "upazila",
+   "english": "Panchbibi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "akkelpur"
+   ],
+   "bangla": [
+    "আক্কেলপুর"
+   ],
+   "kind": "upazila",
+   "english": "Akkelpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "khetlal"
+   ],
+   "bangla": [
+    "ক্ষেতলাল"
+   ],
+   "kind": "upazila",
+   "english": "Khetlal",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "kalai"
+   ],
+   "bangla": [
+    "কালাই"
+   ],
+   "kind": "upazila",
+   "english": "Kalai",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "naogaon",
+    "naogaonsadar",
+    "nowgaon"
+   ],
+   "bangla": [
+    "নওগাঁ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Naogaon Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "atrai"
+   ],
+   "bangla": [
+    "আত্রাই"
+   ],
+   "kind": "upazila",
+   "english": "Atrai",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "raninagar",
+    "raninogor"
+   ],
+   "bangla": [
+    "রাণীনগর"
+   ],
+   "kind": "upazila",
+   "english": "Raninagar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "patnitala",
+    "potnitola"
+   ],
+   "bangla": [
+    "পত্নীতলা"
+   ],
+   "kind": "upazila",
+   "english": "Patnitala",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sapahar",
+    "shapahar"
+   ],
+   "bangla": [
+    "সাপাহার"
+   ],
+   "kind": "upazila",
+   "english": "Sapahar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "porsa",
+    "porsha"
+   ],
+   "bangla": [
+    "পোরশা"
+   ],
+   "kind": "upazila",
+   "english": "Porsha",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "manda",
+    "mandah"
+   ],
+   "bangla": [
+    "মান্দা"
+   ],
+   "kind": "upazila",
+   "english": "Manda",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "mahadebpur",
+    "mohadevpur"
+   ],
+   "bangla": [
+    "মহাদেবপুর"
+   ],
+   "kind": "upazila",
+   "english": "Mohadevpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "badalgachhi",
+    "badalgachi"
+   ],
+   "bangla": [
+    "বদলগাছী"
+   ],
+   "kind": "upazila",
+   "english": "Badalgachhi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "niamatpur",
+    "niyamatpur"
+   ],
+   "bangla": [
+    "নিয়ামতপুর"
+   ],
+   "kind": "upazila",
+   "english": "Niamatpur",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "pabna",
+    "pabnasadar"
+   ],
+   "bangla": [
+    "পাবনা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Pabna Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "santhia",
+    "sathia"
+   ],
+   "bangla": [
+    "সাঁথিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Santhia",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "sujanagar",
+    "sujanogor"
+   ],
+   "bangla": [
+    "সুজানগর"
+   ],
+   "kind": "upazila",
+   "english": "Sujanagar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "beda",
+    "bera"
+   ],
+   "bangla": [
+    "বেড়া"
+   ],
+   "kind": "upazila",
+   "english": "Bera",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "ishurdi",
+    "ishwardi"
+   ],
+   "bangla": [
+    "ঈশ্বরদী"
+   ],
+   "kind": "upazila",
+   "english": "Ishwardi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "bhangura"
+   ],
+   "bangla": [
+    "ভাঙ্গুড়া"
+   ],
+   "kind": "upazila",
+   "english": "Bhangura",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "faridpur"
+   ],
+   "bangla": [
+    "ফরিদপুর"
+   ],
+   "kind": "upazila",
+   "english": "Faridpur (Pabna)",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "chatmohar"
+   ],
+   "bangla": [
+    "চাটমোহর"
+   ],
+   "kind": "upazila",
+   "english": "Chatmohar",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "atgharia",
+    "atghoria"
+   ],
+   "bangla": [
+    "আটঘরিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Atgharia",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী_বিভাগ",
+   "verifiedBy": "bn.wikipedia বাংলাদেশের উপজেলার তালিকা"
+  },
+  {
+   "roman": [
+    "kumarkhali"
+   ],
+   "bangla": [
+    "কুমারখালী"
+   ],
+   "kind": "upazila",
+   "english": "Kumarkhali",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুষ্টিয়া_জেলা"
+  },
+  {
+   "roman": [
+    "kushtiasadar",
+    "kustiasadar"
+   ],
+   "bangla": [
+    "কুষ্টিয়া সদর"
+   ],
+   "kind": "upazila",
+   "english": "Kushtia Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুষ্টিয়া_জেলা"
+  },
+  {
+   "roman": [
+    "khoksa"
+   ],
+   "bangla": [
+    "খোকসা"
+   ],
+   "kind": "upazila",
+   "english": "Khoksa",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুষ্টিয়া_জেলা"
+  },
+  {
+   "roman": [
+    "bheramara"
+   ],
+   "bangla": [
+    "ভেড়ামারা"
+   ],
+   "kind": "upazila",
+   "english": "Bheramara",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুষ্টিয়া_জেলা"
+  },
+  {
+   "roman": [
+    "mirpur"
+   ],
+   "bangla": [
+    "মিরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Mirpur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/কুষ্টিয়া_জেলা"
+  },
+  {
+   "roman": [
+    "koira",
+    "koyra"
+   ],
+   "bangla": [
+    "কয়রা"
+   ],
+   "kind": "upazila",
+   "english": "Koyra",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "dumuria",
+    "dumuriya"
+   ],
+   "bangla": [
+    "ডুমুরিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Dumuria",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "terkhada",
+    "terokhada"
+   ],
+   "bangla": [
+    "তেরখাদা"
+   ],
+   "kind": "upazila",
+   "english": "Terokhada",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "dacope",
+    "dakop"
+   ],
+   "bangla": [
+    "দাকোপ"
+   ],
+   "kind": "upazila",
+   "english": "Dacope",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "dighalia",
+    "dighaliya"
+   ],
+   "bangla": [
+    "দিঘলিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Dighalia",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "paikgacha",
+    "paikgachha"
+   ],
+   "bangla": [
+    "পাইকগাছা"
+   ],
+   "kind": "upazila",
+   "english": "Paikgachha",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "fultala",
+    "phultala"
+   ],
+   "bangla": [
+    "ফুলতলা"
+   ],
+   "kind": "upazila",
+   "english": "Phultala",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "batiaghata"
+   ],
+   "bangla": [
+    "বটিয়াঘাটা"
+   ],
+   "kind": "upazila",
+   "english": "Batiaghata",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "rupsa",
+    "rupsha"
+   ],
+   "bangla": [
+    "রূপসা"
+   ],
+   "kind": "upazila",
+   "english": "Rupsa",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/খুলনা_জেলা"
+  },
+  {
+   "roman": [
+    "alamdanga"
+   ],
+   "bangla": [
+    "আলমডাঙ্গা"
+   ],
+   "kind": "upazila",
+   "english": "Alamdanga",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চুয়াডাঙ্গা_জেলা"
+  },
+  {
+   "roman": [
+    "chuadangasadar"
+   ],
+   "bangla": [
+    "চুয়াডাঙ্গা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Chuadanga Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চুয়াডাঙ্গা_জেলা"
+  },
+  {
+   "roman": [
+    "jibannagar",
+    "jibonnogor"
+   ],
+   "bangla": [
+    "জীবননগর"
+   ],
+   "kind": "upazila",
+   "english": "Jibannagar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চুয়াডাঙ্গা_জেলা"
+  },
+  {
+   "roman": [
+    "damurhuda"
+   ],
+   "bangla": [
+    "দামুড়হুদা"
+   ],
+   "kind": "upazila",
+   "english": "Damurhuda",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/চুয়াডাঙ্গা_জেলা"
+  },
+  {
+   "roman": [
+    "kotchandpur"
+   ],
+   "bangla": [
+    "কোটচাঁদপুর"
+   ],
+   "kind": "upazila",
+   "english": "Kotchandpur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝিনাইদহ_জেলা"
+  },
+  {
+   "roman": [
+    "jhenaidahsadar",
+    "jhenaidasadar"
+   ],
+   "bangla": [
+    "ঝিনাইদহ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Jhenaidah Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝিনাইদহ_জেলা"
+  },
+  {
+   "roman": [
+    "maheshpur",
+    "moheshpur"
+   ],
+   "bangla": [
+    "মহেশপুর"
+   ],
+   "kind": "upazila",
+   "english": "Maheshpur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝিনাইদহ_জেলা"
+  },
+  {
+   "roman": [
+    "shailkupa",
+    "shoilokupa"
+   ],
+   "bangla": [
+    "শৈলকুপা"
+   ],
+   "kind": "upazila",
+   "english": "Shailkupa",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝিনাইদহ_জেলা"
+  },
+  {
+   "roman": [
+    "kalia",
+    "kaliya"
+   ],
+   "bangla": [
+    "কালিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kalia",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নড়াইল_জেলা"
+  },
+  {
+   "roman": [
+    "narailsadar"
+   ],
+   "bangla": [
+    "নড়াইল সদর"
+   ],
+   "kind": "upazila",
+   "english": "Narail Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নড়াইল_জেলা"
+  },
+  {
+   "roman": [
+    "lohagara",
+    "lohagora"
+   ],
+   "bangla": [
+    "লোহাগড়া"
+   ],
+   "kind": "upazila",
+   "english": "Lohagara",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/নড়াইল_জেলা"
+  },
+  {
+   "roman": [
+    "chitalmari",
+    "chitolmari"
+   ],
+   "bangla": [
+    "চিতলমারী"
+   ],
+   "kind": "upazila",
+   "english": "Chitalmari",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "fakirhat",
+    "fokirhat"
+   ],
+   "bangla": [
+    "ফকিরহাট"
+   ],
+   "kind": "upazila",
+   "english": "Fakirhat",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "bagerhatsadar"
+   ],
+   "bangla": [
+    "বাগেরহাট সদর"
+   ],
+   "kind": "upazila",
+   "english": "Bagerhat Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "mongla"
+   ],
+   "bangla": [
+    "মোংলা"
+   ],
+   "kind": "upazila",
+   "english": "Mongla",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "morelganj",
+    "morrelganj"
+   ],
+   "bangla": [
+    "মোড়েলগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Morrelganj",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "mollahat"
+   ],
+   "bangla": [
+    "মোল্লাহাট"
+   ],
+   "kind": "upazila",
+   "english": "Mollahat",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "rampal"
+   ],
+   "bangla": [
+    "রামপাল"
+   ],
+   "kind": "upazila",
+   "english": "Rampal",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "sarankhola",
+    "shoronkhola"
+   ],
+   "bangla": [
+    "শরণখোলা"
+   ],
+   "kind": "upazila",
+   "english": "Sarankhola",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাগেরহাট_জেলা"
+  },
+  {
+   "roman": [
+    "magurasadar"
+   ],
+   "bangla": [
+    "মাগুরা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Magura Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মাগুরা_জেলা"
+  },
+  {
+   "roman": [
+    "mohammadpur",
+    "mohammodpur"
+   ],
+   "bangla": [
+    "মহম্মদপুর"
+   ],
+   "kind": "upazila",
+   "english": "Mohammadpur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মাগুরা_জেলা"
+  },
+  {
+   "roman": [
+    "salikha",
+    "shalikha"
+   ],
+   "bangla": [
+    "শালিখা"
+   ],
+   "kind": "upazila",
+   "english": "Shalikha",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মাগুরা_জেলা"
+  },
+  {
+   "roman": [
+    "shripur",
+    "sreepur"
+   ],
+   "bangla": [
+    "শ্রীপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sreepur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মাগুরা_জেলা"
+  },
+  {
+   "roman": [
+    "gangni"
+   ],
+   "bangla": [
+    "গাংনী"
+   ],
+   "kind": "upazila",
+   "english": "Gangni",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মেহেরপুর_জেলা"
+  },
+  {
+   "roman": [
+    "meherpursadar"
+   ],
+   "bangla": [
+    "মেহেরপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Meherpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মেহেরপুর_জেলা"
+  },
+  {
+   "roman": [
+    "mujibnagar",
+    "mujibnogor"
+   ],
+   "bangla": [
+    "মুজিবনগর"
+   ],
+   "kind": "upazila",
+   "english": "Mujibnagar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/মেহেরপুর_জেলা"
+  },
+  {
+   "roman": [
+    "abhaynagar",
+    "avoynagar"
+   ],
+   "bangla": [
+    "অভয়নগর"
+   ],
+   "kind": "upazila",
+   "english": "Abhaynagar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "keshabpur",
+    "keshobpur"
+   ],
+   "bangla": [
+    "কেশবপুর"
+   ],
+   "kind": "upazila",
+   "english": "Keshabpur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "chaugachha",
+    "chougacha"
+   ],
+   "bangla": [
+    "চৌগাছা"
+   ],
+   "kind": "upazila",
+   "english": "Chaugachha",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "jhikargachha",
+    "jhikorgacha"
+   ],
+   "bangla": [
+    "ঝিকরগাছা"
+   ],
+   "kind": "upazila",
+   "english": "Jhikargachha",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "bagherpara"
+   ],
+   "bangla": [
+    "বাঘারপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Bagherpara",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "manirampur",
+    "monirampur"
+   ],
+   "bangla": [
+    "মনিরামপুর"
+   ],
+   "kind": "upazila",
+   "english": "Manirampur",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "jashoresadar",
+    "jessoresadar"
+   ],
+   "bangla": [
+    "যশোর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Jessore Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "sarsha",
+    "sharsha"
+   ],
+   "bangla": [
+    "শার্শা"
+   ],
+   "kind": "upazila",
+   "english": "Sharsha",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/যশোর_জেলা"
+  },
+  {
+   "roman": [
+    "ashashuni",
+    "assasuni"
+   ],
+   "bangla": [
+    "আশাশুনি"
+   ],
+   "kind": "upazila",
+   "english": "Assasuni",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "kalaroa",
+    "kolaroa"
+   ],
+   "bangla": [
+    "কলারোয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kalaroa",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "tala"
+   ],
+   "bangla": [
+    "তালা"
+   ],
+   "kind": "upazila",
+   "english": "Tala",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "debhata"
+   ],
+   "bangla": [
+    "দেবহাটা"
+   ],
+   "kind": "upazila",
+   "english": "Debhata",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "shamnagar",
+    "shyamnagar"
+   ],
+   "bangla": [
+    "শ্যামনগর"
+   ],
+   "kind": "upazila",
+   "english": "Shyamnagar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "satkhirasadar"
+   ],
+   "bangla": [
+    "সাতক্ষীরা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Satkhira Sadar",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/সাতক্ষীরা_জেলা"
+  },
+  {
+   "roman": [
+    "agailjhara",
+    "agoiljhara"
+   ],
+   "bangla": [
+    "আগৈলঝাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Agailjhara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "bakerganj",
+    "bakergonj"
+   ],
+   "bangla": [
+    "বাকেরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Bakerganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "babuganj",
+    "babugonj"
+   ],
+   "bangla": [
+    "বাবুগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Babuganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "banaripara"
+   ],
+   "bangla": [
+    "বানারীপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Banaripara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "gaurnadi",
+    "gournadi",
+    "gouronodi"
+   ],
+   "bangla": [
+    "গৌরনদী"
+   ],
+   "kind": "upazila",
+   "english": "Gaurnadi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "hijla",
+    "hizla"
+   ],
+   "bangla": [
+    "হিজলা"
+   ],
+   "kind": "upazila",
+   "english": "Hizla",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "barisalsadar",
+    "barishalsadar"
+   ],
+   "bangla": [
+    "বরিশাল সদর"
+   ],
+   "kind": "upazila",
+   "english": "Barishal Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "mehendiganj",
+    "mehendigonj"
+   ],
+   "bangla": [
+    "মেহেন্দিগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Mehendiganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "muladi"
+   ],
+   "bangla": [
+    "মুলাদী"
+   ],
+   "kind": "upazila",
+   "english": "Muladi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "ujirpur",
+    "uzirpur",
+    "wazirpur"
+   ],
+   "bangla": [
+    "উজিরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Wazirpur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরিশাল_জেলা"
+  },
+  {
+   "roman": [
+    "bargunasadar",
+    "borgunasadar"
+   ],
+   "bangla": [
+    "বরগুনা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Barguna Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "amtali",
+    "amtoli"
+   ],
+   "bangla": [
+    "আমতলী"
+   ],
+   "kind": "upazila",
+   "english": "Amtali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "taltali",
+    "taltoli"
+   ],
+   "bangla": [
+    "তালতলী"
+   ],
+   "kind": "upazila",
+   "english": "Taltali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "patharghata",
+    "pathorghata"
+   ],
+   "bangla": [
+    "পাথরঘাটা"
+   ],
+   "kind": "upazila",
+   "english": "Patharghata",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "betagi"
+   ],
+   "bangla": [
+    "বেতাগী"
+   ],
+   "kind": "upazila",
+   "english": "Betagi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "bamna"
+   ],
+   "bangla": [
+    "বামনা"
+   ],
+   "kind": "upazila",
+   "english": "Bamna",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বরগুনা_জেলা"
+  },
+  {
+   "roman": [
+    "charfashon",
+    "charfasson",
+    "chorfashon"
+   ],
+   "bangla": [
+    "চরফ্যাশন"
+   ],
+   "kind": "upazila",
+   "english": "Char Fasson",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "daulatkhan",
+    "doulotkhan"
+   ],
+   "bangla": [
+    "দৌলতখান"
+   ],
+   "kind": "upazila",
+   "english": "Daulatkhan",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "borhanuddin",
+    "burhanuddin"
+   ],
+   "bangla": [
+    "বোরহানউদ্দিন"
+   ],
+   "kind": "upazila",
+   "english": "Burhanuddin",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "bholasadar"
+   ],
+   "bangla": [
+    "ভোলা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Bhola Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "manpura",
+    "monpura"
+   ],
+   "bangla": [
+    "মনপুরা"
+   ],
+   "kind": "upazila",
+   "english": "Manpura",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "lalmohan",
+    "lalmohon"
+   ],
+   "bangla": [
+    "লালমোহন"
+   ],
+   "kind": "upazila",
+   "english": "Lalmohan",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ভোলা_জেলা"
+  },
+  {
+   "roman": [
+    "kathalia",
+    "kathaliya"
+   ],
+   "bangla": [
+    "কাঠালিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kathalia",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝালকাঠি_জেলা"
+  },
+  {
+   "roman": [
+    "jhalakathisadar",
+    "jhalokatisadar"
+   ],
+   "bangla": [
+    "ঝালকাঠি সদর"
+   ],
+   "kind": "upazila",
+   "english": "Jhalokati Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝালকাঠি_জেলা"
+  },
+  {
+   "roman": [
+    "nalchiti",
+    "nalchity",
+    "nolchiti"
+   ],
+   "bangla": [
+    "নলছিটি"
+   ],
+   "kind": "upazila",
+   "english": "Nalchity",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝালকাঠি_জেলা"
+  },
+  {
+   "roman": [
+    "rajapur"
+   ],
+   "bangla": [
+    "রাজাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Rajapur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/ঝালকাঠি_জেলা"
+  },
+  {
+   "roman": [
+    "patuakhalisadar"
+   ],
+   "bangla": [
+    "পটুয়াখালী সদর"
+   ],
+   "kind": "upazila",
+   "english": "Patuakhali Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "baufal",
+    "bauphal"
+   ],
+   "bangla": [
+    "বাউফল"
+   ],
+   "kind": "upazila",
+   "english": "Bauphal",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "dashmina",
+    "doshmina"
+   ],
+   "bangla": [
+    "দশমিনা"
+   ],
+   "kind": "upazila",
+   "english": "Dashmina",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "galachipa",
+    "golachipa"
+   ],
+   "bangla": [
+    "গলাচিপা"
+   ],
+   "kind": "upazila",
+   "english": "Galachipa",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "kalapara"
+   ],
+   "bangla": [
+    "কলাপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Kalapara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "mirjagonj",
+    "mirzaganj"
+   ],
+   "bangla": [
+    "মির্জাগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Mirzaganj",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "dumki"
+   ],
+   "bangla": [
+    "দুমকি"
+   ],
+   "kind": "upazila",
+   "english": "Dumki",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "rangabali"
+   ],
+   "bangla": [
+    "রাঙ্গাবালী"
+   ],
+   "kind": "upazila",
+   "english": "Rangabali",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পটুয়াখালী_জেলা"
+  },
+  {
+   "roman": [
+    "najirpur",
+    "nazirpur"
+   ],
+   "bangla": [
+    "নাজিরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Nazirpur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "nesarabad",
+    "sarupkathi",
+    "swarupkati"
+   ],
+   "bangla": [
+    "নেছারাবাদ"
+   ],
+   "kind": "upazila",
+   "english": "Nesarabad (Swarupkati)",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "pirojpursadar"
+   ],
+   "bangla": [
+    "পিরোজপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Pirojpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "bhandaria",
+    "bhandariya"
+   ],
+   "bangla": [
+    "ভান্ডারিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Bhandaria",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "mathbaria",
+    "mothbaria"
+   ],
+   "bangla": [
+    "মঠবাড়িয়া"
+   ],
+   "kind": "upazila",
+   "english": "Mathbaria",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "indurkani",
+    "zianagar"
+   ],
+   "bangla": [
+    "ইন্দুরকানী"
+   ],
+   "kind": "upazila",
+   "english": "Indurkani",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/পিরোজপুর_জেলা"
+  },
+  {
+   "roman": [
+    "ulipur"
+   ],
+   "bangla": [
+    "উলিপুর"
+   ],
+   "kind": "upazila",
+   "english": "Ulipur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "kurigramsadar"
+   ],
+   "bangla": [
+    "কুড়িগ্রাম সদর"
+   ],
+   "kind": "upazila",
+   "english": "Kurigram Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "charrajibpur",
+    "rajibpur"
+   ],
+   "bangla": [
+    "চর রাজিবপুর"
+   ],
+   "kind": "upazila",
+   "english": "Char Rajibpur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "chilmari"
+   ],
+   "bangla": [
+    "চিলমারী"
+   ],
+   "kind": "upazila",
+   "english": "Chilmari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "nageshwari",
+    "nageswari"
+   ],
+   "bangla": [
+    "নাগেশ্বরী"
+   ],
+   "kind": "upazila",
+   "english": "Nageshwari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "fulbari",
+    "phulbari"
+   ],
+   "bangla": [
+    "ফুলবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Phulbari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "bhurungamari"
+   ],
+   "bangla": [
+    "ভূরুঙ্গামারী"
+   ],
+   "kind": "upazila",
+   "english": "Bhurungamari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "rajarhat"
+   ],
+   "bangla": [
+    "রাজারহাট"
+   ],
+   "kind": "upazila",
+   "english": "Rajarhat",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "raumari",
+    "rowmari"
+   ],
+   "bangla": [
+    "রৌমারী"
+   ],
+   "kind": "upazila",
+   "english": "Raumari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "gaibandhasadar"
+   ],
+   "bangla": [
+    "গাইবান্ধা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Gaibandha Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "gobindaganj",
+    "gobindagonj"
+   ],
+   "bangla": [
+    "গোবিন্দগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Gobindaganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "palashbari"
+   ],
+   "bangla": [
+    "পলাশবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Palashbari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "fulchari",
+    "phulchhari"
+   ],
+   "bangla": [
+    "ফুলছড়ি"
+   ],
+   "kind": "upazila",
+   "english": "Phulchhari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "saghata"
+   ],
+   "bangla": [
+    "সাঘাটা"
+   ],
+   "kind": "upazila",
+   "english": "Saghata",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "sadullapur"
+   ],
+   "bangla": [
+    "সাদুল্লাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Sadullapur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "sundarganj",
+    "sundorgonj"
+   ],
+   "bangla": [
+    "সুন্দরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Sundarganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "thakurgaonsadar"
+   ],
+   "bangla": [
+    "ঠাকুরগাঁও সদর"
+   ],
+   "kind": "upazila",
+   "english": "Thakurgaon Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "pirganj",
+    "pirgonj"
+   ],
+   "bangla": [
+    "পীরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Pirganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "baliadangi"
+   ],
+   "bangla": [
+    "বালিয়াডাঙ্গী"
+   ],
+   "kind": "upazila",
+   "english": "Baliadangi",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "haripur",
+    "horipur"
+   ],
+   "bangla": [
+    "হরিপুর"
+   ],
+   "kind": "upazila",
+   "english": "Haripur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "kaharol",
+    "kaharole"
+   ],
+   "bangla": [
+    "কাহারোল"
+   ],
+   "kind": "upazila",
+   "english": "Kaharole",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "khansama"
+   ],
+   "bangla": [
+    "খানসামা"
+   ],
+   "kind": "upazila",
+   "english": "Khansama",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "ghoraghat"
+   ],
+   "bangla": [
+    "ঘোড়াঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Ghoraghat",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "chirirbandar",
+    "chirirbondor"
+   ],
+   "bangla": [
+    "চিরিরবন্দর"
+   ],
+   "kind": "upazila",
+   "english": "Chirirbandar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "dinajpursadar"
+   ],
+   "bangla": [
+    "দিনাজপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Dinajpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "parbatipur"
+   ],
+   "bangla": [
+    "পার্বতীপুর"
+   ],
+   "kind": "upazila",
+   "english": "Parbatipur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "biral"
+   ],
+   "bangla": [
+    "বিরল"
+   ],
+   "kind": "upazila",
+   "english": "Biral",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "birampur"
+   ],
+   "bangla": [
+    "বিরামপুর"
+   ],
+   "kind": "upazila",
+   "english": "Birampur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "birganj",
+    "birgonj"
+   ],
+   "bangla": [
+    "বীরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Birganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "bochaganj",
+    "bochagonj"
+   ],
+   "bangla": [
+    "বোচাগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Bochaganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "hakimpur"
+   ],
+   "bangla": [
+    "হাকিমপুর"
+   ],
+   "kind": "upazila",
+   "english": "Hakimpur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "kishoreganj",
+    "kishorgonj"
+   ],
+   "bangla": [
+    "কিশোরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Kishoreganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "jaldhaka",
+    "joldhaka"
+   ],
+   "bangla": [
+    "জলঢাকা"
+   ],
+   "kind": "upazila",
+   "english": "Jaldhaka",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "dimla"
+   ],
+   "bangla": [
+    "ডিমলা"
+   ],
+   "kind": "upazila",
+   "english": "Dimla",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "domar"
+   ],
+   "bangla": [
+    "ডোমার"
+   ],
+   "kind": "upazila",
+   "english": "Domar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "nilphamarisadar"
+   ],
+   "bangla": [
+    "নীলফামারী সদর"
+   ],
+   "kind": "upazila",
+   "english": "Nilphamari Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "saidpur",
+    "syedpur"
+   ],
+   "bangla": [
+    "সৈয়দপুর"
+   ],
+   "kind": "upazila",
+   "english": "Saidpur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "atowari",
+    "atwari"
+   ],
+   "bangla": [
+    "আটোয়ারী"
+   ],
+   "kind": "upazila",
+   "english": "Atwari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "tentulia",
+    "tetulia"
+   ],
+   "bangla": [
+    "তেঁতুলিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Tetulia",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "debiganj",
+    "debigonj"
+   ],
+   "bangla": [
+    "দেবীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Debiganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "panchagarhsadar"
+   ],
+   "bangla": [
+    "পঞ্চগড় সদর"
+   ],
+   "kind": "upazila",
+   "english": "Panchagarh Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "boda"
+   ],
+   "bangla": [
+    "বোদা"
+   ],
+   "kind": "upazila",
+   "english": "Boda",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "kaunia"
+   ],
+   "bangla": [
+    "কাউনিয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kaunia",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "gangachara",
+    "gongachora"
+   ],
+   "bangla": [
+    "গংগাচড়া"
+   ],
+   "kind": "upazila",
+   "english": "Gangachara",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "taraganj",
+    "taragonj"
+   ],
+   "bangla": [
+    "তারাগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Taraganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "pirgacha",
+    "pirgachha"
+   ],
+   "bangla": [
+    "পীরগাছা"
+   ],
+   "kind": "upazila",
+   "english": "Pirgachha",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "badarganj",
+    "bodorgonj"
+   ],
+   "bangla": [
+    "বদরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Badarganj",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "mithapukur"
+   ],
+   "bangla": [
+    "মিঠাপুকুর"
+   ],
+   "kind": "upazila",
+   "english": "Mithapukur",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "rangpursadar"
+   ],
+   "bangla": [
+    "রংপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Rangpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "aditmari"
+   ],
+   "bangla": [
+    "আদিতমারী"
+   ],
+   "kind": "upazila",
+   "english": "Aditmari",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "patgram"
+   ],
+   "bangla": [
+    "পাটগ্রাম"
+   ],
+   "kind": "upazila",
+   "english": "Patgram",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "lalmonirhatsadar"
+   ],
+   "bangla": [
+    "লালমনিরহাট সদর"
+   ],
+   "kind": "upazila",
+   "english": "Lalmonirhat Sadar",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "hatibandha"
+   ],
+   "bangla": [
+    "হাতীবান্ধা"
+   ],
+   "kind": "upazila",
+   "english": "Hatibandha",
+   "source": "https://bn.wikipedia.org/wiki/রংপুর_বিভাগ",
+   "verifiedBy": "S"
+  },
+  {
+   "roman": [
+    "moymonsinghsadar",
+    "mymensinghsadar"
+   ],
+   "bangla": [
+    "ময়মনসিংহ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Mymensingh Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "trisal",
+    "trishal"
+   ],
+   "bangla": [
+    "ত্রিশাল"
+   ],
+   "kind": "upazila",
+   "english": "Trishal",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bhaluka",
+    "valuka"
+   ],
+   "bangla": [
+    "ভালুকা"
+   ],
+   "kind": "upazila",
+   "english": "Bhaluka",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "muktagacha",
+    "muktagachha"
+   ],
+   "bangla": [
+    "মুক্তাগাছা"
+   ],
+   "kind": "upazila",
+   "english": "Muktagachha",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gafargaon",
+    "gaffargaon",
+    "gofargaon"
+   ],
+   "bangla": [
+    "গফরগাঁও"
+   ],
+   "kind": "upazila",
+   "english": "Gaffargaon",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dakkhingafargaon",
+    "dakshingaffargaon"
+   ],
+   "bangla": [
+    "দক্ষিণ গফরগাঁও"
+   ],
+   "kind": "upazila",
+   "english": "Dakshin Gaffargaon",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "gauripur",
+    "gouripur"
+   ],
+   "bangla": [
+    "গৌরীপুর"
+   ],
+   "kind": "upazila",
+   "english": "Gauripur",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "ishwarganj",
+    "isshorgonj",
+    "issorganj"
+   ],
+   "bangla": [
+    "ঈশ্বরগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Ishwarganj",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nandail"
+   ],
+   "bangla": [
+    "নান্দাইল"
+   ],
+   "kind": "upazila",
+   "english": "Nandail",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "tarakanda"
+   ],
+   "bangla": [
+    "তারাকান্দা"
+   ],
+   "kind": "upazila",
+   "english": "Tarakanda",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "fulpur",
+    "phulpur"
+   ],
+   "bangla": [
+    "ফুলপুর"
+   ],
+   "kind": "upazila",
+   "english": "Phulpur",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "haluaghat",
+    "haluyaghat"
+   ],
+   "bangla": [
+    "হালুয়াঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Haluaghat",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dhobaura"
+   ],
+   "bangla": [
+    "ধোবাউড়া"
+   ],
+   "kind": "upazila",
+   "english": "Dhobaura",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "jamalpursadar"
+   ],
+   "bangla": [
+    "জামালপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Jamalpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "islampur"
+   ],
+   "bangla": [
+    "ইসলামপুর"
+   ],
+   "kind": "upazila",
+   "english": "Islampur",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "dewanganj",
+    "dewangonj"
+   ],
+   "bangla": [
+    "দেওয়ানগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Dewanganj",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "madarganj",
+    "madargonj"
+   ],
+   "bangla": [
+    "মাদারগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Madarganj",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "melandah",
+    "melandaha",
+    "melandoho"
+   ],
+   "bangla": [
+    "মেলান্দহ"
+   ],
+   "kind": "upazila",
+   "english": "Melandaha",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sarishabari",
+    "sorishabari"
+   ],
+   "bangla": [
+    "সরিষাবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Sarishabari",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "bakshiganj",
+    "bokshigonj"
+   ],
+   "bangla": [
+    "বকশীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Bakshiganj",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "netrakonasadar",
+    "netrokonasadar"
+   ],
+   "bangla": [
+    "নেত্রকোণা সদর"
+   ],
+   "kind": "upazila",
+   "english": "Netrokona Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "purbadhala",
+    "purbodhola"
+   ],
+   "bangla": [
+    "পূর্বধলা"
+   ],
+   "kind": "upazila",
+   "english": "Purbadhala",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "durgapur"
+   ],
+   "bangla": [
+    "দুর্গাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Durgapur",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "barhatta"
+   ],
+   "bangla": [
+    "বারহাট্টা"
+   ],
+   "kind": "upazila",
+   "english": "Barhatta",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "atpara"
+   ],
+   "bangla": [
+    "আটপাড়া"
+   ],
+   "kind": "upazila",
+   "english": "Atpara",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "madan",
+    "modon"
+   ],
+   "bangla": [
+    "মদন"
+   ],
+   "kind": "upazila",
+   "english": "Madan",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kendua",
+    "kenduya"
+   ],
+   "bangla": [
+    "কেন্দুয়া"
+   ],
+   "kind": "upazila",
+   "english": "Kendua",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "mohanganj",
+    "mohongonj"
+   ],
+   "bangla": [
+    "মোহনগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Mohanganj",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "kalmakanda",
+    "kolmakanda"
+   ],
+   "bangla": [
+    "কলমাকান্দা"
+   ],
+   "kind": "upazila",
+   "english": "Kalmakanda",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "sherpursadar"
+   ],
+   "bangla": [
+    "শেরপুর সদর"
+   ],
+   "kind": "upazila",
+   "english": "Sherpur Sadar",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nakla",
+    "nokla"
+   ],
+   "bangla": [
+    "নকলা"
+   ],
+   "kind": "upazila",
+   "english": "Nakla",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "jhenaigati",
+    "jhinaigati"
+   ],
+   "bangla": [
+    "ঝিনাইগাতী"
+   ],
+   "kind": "upazila",
+   "english": "Jhenaigati",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "nalitabari"
+   ],
+   "bangla": [
+    "নালিতাবাড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Nalitabari",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "shribordi",
+    "sreebardi",
+    "sribardi"
+   ],
+   "bangla": [
+    "শ্রীবরদী"
+   ],
+   "kind": "upazila",
+   "english": "Sreebardi",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ_বিভাগ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_উপজেলার_তালিকা"
+  },
+  {
+   "roman": [
+    "daka",
+    "dhaka"
+   ],
+   "bangla": [
+    "ঢাকা"
+   ],
+   "kind": "city",
+   "english": "Dhaka",
+   "source": "https://bn.wikipedia.org/wiki/ঢাকা",
+   "verifiedBy": "bn.banglapedia.org article ঢাকা"
+  },
+  {
+   "roman": [
+    "chattogram",
+    "chittagong",
+    "chottogram"
+   ],
+   "bangla": [
+    "চট্টগ্রাম"
+   ],
+   "kind": "city",
+   "english": "Chittagong",
+   "source": "https://bn.wikipedia.org/wiki/চট্টগ্রাম",
+   "verifiedBy": "bn.banglapedia.org article titles (e.g. চট্টগ্রাম ওয়ার সিমেট্রি)"
+  },
+  {
+   "roman": [
+    "khulna"
+   ],
+   "bangla": [
+    "খুলনা"
+   ],
+   "kind": "city",
+   "english": "Khulna",
+   "source": "https://bn.wikipedia.org/wiki/খুলনা",
+   "verifiedBy": "bn.banglapedia.org খুলনা জেলা"
+  },
+  {
+   "roman": [
+    "rajshahee",
+    "rajshahi"
+   ],
+   "bangla": [
+    "রাজশাহী"
+   ],
+   "kind": "city",
+   "english": "Rajshahi",
+   "source": "https://bn.wikipedia.org/wiki/রাজশাহী",
+   "verifiedBy": "bn.banglapedia.org রাজশাহী কলেজ etc."
+  },
+  {
+   "roman": [
+    "silet",
+    "sileth",
+    "sylhet"
+   ],
+   "bangla": [
+    "সিলেট"
+   ],
+   "kind": "city",
+   "english": "Sylhet",
+   "source": "https://bn.wikipedia.org/wiki/সিলেট",
+   "verifiedBy": "bn.banglapedia.org সিলেট titles"
+  },
+  {
+   "roman": [
+    "barisal",
+    "barishal",
+    "borishal"
+   ],
+   "bangla": [
+    "বরিশাল"
+   ],
+   "kind": "city",
+   "english": "Barisal",
+   "source": "https://bn.wikipedia.org/wiki/বরিশাল",
+   "verifiedBy": "bn.banglapedia.org বরিশাল জিলা স্কুল"
+  },
+  {
+   "roman": [
+    "rangpur",
+    "rongpur"
+   ],
+   "bangla": [
+    "রংপুর"
+   ],
+   "kind": "city",
+   "english": "Rangpur",
+   "source": "https://en.wikipedia.org/wiki/Rangpur (bn langlink)",
+   "verifiedBy": "bn.banglapedia.org রংপুর জেলা"
+  },
+  {
+   "roman": [
+    "comilla",
+    "cumilla",
+    "kumilla"
+   ],
+   "bangla": [
+    "কুমিল্লা"
+   ],
+   "kind": "city",
+   "english": "Comilla",
+   "source": "https://bn.wikipedia.org/wiki/কুমিল্লা",
+   "verifiedBy": "bn.banglapedia.org কুমিল্লা জেলা"
+  },
+  {
+   "roman": [
+    "gajipur",
+    "gazipur"
+   ],
+   "bangla": [
+    "গাজীপুর"
+   ],
+   "kind": "city",
+   "english": "Gazipur",
+   "source": "https://bn.wikipedia.org/wiki/গাজীপুর",
+   "verifiedBy": "bn.banglapedia.org গাজীপুর জেলা"
+  },
+  {
+   "roman": [
+    "narayanganj",
+    "narayangonj"
+   ],
+   "bangla": [
+    "নারায়ণগঞ্জ"
+   ],
+   "kind": "city",
+   "english": "Narayanganj",
+   "source": "https://bn.wikipedia.org/wiki/নারায়ণগঞ্জ",
+   "verifiedBy": "bn.banglapedia.org নারায়ণগঞ্জ জেলা (NFC-equivalent)"
+  },
+  {
+   "roman": [
+    "maimansingh",
+    "moymonsingh",
+    "mymensingh"
+   ],
+   "bangla": [
+    "ময়মনসিংহ"
+   ],
+   "kind": "city",
+   "english": "Mymensingh",
+   "source": "https://bn.wikipedia.org/wiki/ময়মনসিংহ",
+   "verifiedBy": "bn.banglapedia.org ময়মনসিংহ জেলা"
+  },
+  {
+   "roman": [
+    "tongi"
+   ],
+   "bangla": [
+    "টঙ্গী"
+   ],
+   "kind": "city",
+   "english": "Tongi",
+   "source": "https://bn.wikipedia.org/wiki/টঙ্গী",
+   "verifiedBy": "bn.banglapedia.org full-text search body matches"
+  },
+  {
+   "roman": [
+    "ashulia",
+    "asulia"
+   ],
+   "bangla": [
+    "আশুলিয়া"
+   ],
+   "kind": "city",
+   "english": "Ashulia",
+   "source": "https://bn.wikipedia.org/wiki/আশুলিয়া",
+   "verifiedBy": "bn.banglapedia.org full-text search body match"
+  },
+  {
+   "roman": [
+    "saidpur",
+    "soidpur",
+    "syedpur"
+   ],
+   "bangla": [
+    "সৈয়দপুর"
+   ],
+   "kind": "city",
+   "english": "Saidpur",
+   "source": "https://bn.wikipedia.org/wiki/সৈয়দপুর",
+   "verifiedBy": "bn.banglapedia.org সৈয়দপুর উপজেলা"
+  },
+  {
+   "roman": [
+    "sreemangal",
+    "sreemongol",
+    "srimangal"
+   ],
+   "bangla": [
+    "শ্রীমঙ্গল"
+   ],
+   "kind": "city",
+   "english": "Sreemangal",
+   "source": "https://bn.wikipedia.org/wiki/শ্রীমঙ্গল_উপজেলা",
+   "verifiedBy": "bn.banglapedia.org শ্রীমঙ্গল উপজেলা"
+  },
+  {
+   "roman": [
+    "coxbazar",
+    "coxsbazar"
+   ],
+   "bangla": [
+    "কক্সবাজার"
+   ],
+   "kind": "city",
+   "english": "Cox's Bazar",
+   "source": "https://bn.wikipedia.org/wiki/কক্সবাজার",
+   "verifiedBy": "bn.banglapedia.org article কক্সবাজার"
+  },
+  {
+   "roman": [
+    "bogra",
+    "bogura"
+   ],
+   "bangla": [
+    "বগুড়া"
+   ],
+   "kind": "city",
+   "english": "Bogra",
+   "source": "https://bn.wikipedia.org/wiki/বগুড়া",
+   "verifiedBy": "bn.banglapedia.org বগুড়া জেলা"
+  },
+  {
+   "roman": [
+    "jashore",
+    "jessore",
+    "josor"
+   ],
+   "bangla": [
+    "যশোর"
+   ],
+   "kind": "city",
+   "english": "Jessore",
+   "source": "https://bn.wikipedia.org/wiki/যশোর",
+   "verifiedBy": "bn.banglapedia.org যশোর জেলা"
+  },
+  {
+   "roman": [
+    "dhakabishwabidyalay",
+    "dhakauniversity"
+   ],
+   "bangla": [
+    "ঢাকা বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "University of Dhaka",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title (via en.wikipedia langlink)"
+  },
+  {
+   "roman": [
+    "rajshahiuniversity"
+   ],
+   "bangla": [
+    "রাজশাহী বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "University of Rajshahi",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "chattogramuniversity",
+    "chittagonguniversity"
+   ],
+   "bangla": [
+    "চট্টগ্রাম বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "University of Chittagong",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "jahangirnagar",
+    "jahangirnagaruniversity"
+   ],
+   "bangla": [
+    "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Jahangirnagar University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "islamicuniversity"
+   ],
+   "bangla": [
+    "ইসলামী বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Islamic University, Bangladesh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title (suffix is a disambiguator)"
+  },
+  {
+   "roman": [
+    "khulnauniversity"
+   ],
+   "bangla": [
+    "খুলনা বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Khulna University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "jagannath",
+    "jagannathuniversity"
+   ],
+   "bangla": [
+    "জগন্নাথ বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Jagannath University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "kazinazrulislamuniversity",
+    "nazruluniversity"
+   ],
+   "bangla": [
+    "জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Jatiya Kabi Kazi Nazrul Islam University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "comillauniversity",
+    "cumillauniversity"
+   ],
+   "bangla": [
+    "কুমিল্লা বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Comilla University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "begumrokeya",
+    "begumrokeyauniversity"
+   ],
+   "bangla": [
+    "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর"
+   ],
+   "kind": "university",
+   "english": "Begum Rokeya University, Rangpur",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "barisaluniversity",
+    "barishaluniversity"
+   ],
+   "bangla": [
+    "বরিশাল বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "University of Barisal",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bangladeshagriculturaluniversity",
+    "krishibishwabidyalay"
+   ],
+   "bangla": [
+    "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Bangladesh Agricultural University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "sherebangla",
+    "sherebanglaagriculturaluniversity"
+   ],
+   "bangla": [
+    "শেরেবাংলা কৃষি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Sher-e-Bangla Agricultural University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "sylhetagriculturaluniversity"
+   ],
+   "bangla": [
+    "সিলেট কৃষি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Sylhet Agricultural University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "rajshahiengineering"
+   ],
+   "bangla": [
+    "রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Rajshahi University of Engineering & Technology",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "chittagongengineering"
+   ],
+   "bangla": [
+    "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Chittagong University of Engineering & Technology",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "khulnaengineering"
+   ],
+   "bangla": [
+    "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Khulna University of Engineering & Technology",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "shahjalal",
+    "shahjalaluniversity"
+   ],
+   "bangla": [
+    "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Shahjalal University of Science and Technology",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "hajeedanesh",
+    "hajimohammaddanesh"
+   ],
+   "bangla": [
+    "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Hajee Mohammad Danesh Science and Technology University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bhasani",
+    "bhashani",
+    "mawlanabhashani"
+   ],
+   "bangla": [
+    "মাওলানা ভাসানী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Mawlana Bhashani Science and Technology University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "patuakhaliscienceandtechnology"
+   ],
+   "bangla": [
+    "পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Patuakhali Science and Technology University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "noakhaliscienceandtechnology"
+   ],
+   "bangla": [
+    "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Noakhali Science and Technology University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "textileuniversity"
+   ],
+   "bangla": [
+    "বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Bangladesh University of Textiles",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "jatiyobishwabidyalay",
+    "nationaluniversity"
+   ],
+   "bangla": [
+    "জাতীয় বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "National University, Bangladesh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title (parenthetical disambiguator)"
+  },
+  {
+   "roman": [
+    "openuniversity"
+   ],
+   "bangla": [
+    "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Bangladesh Open University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "northsouth",
+    "northsouthuniversity"
+   ],
+   "bangla": [
+    "নর্থ সাউথ বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "North South University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bracuniversity"
+   ],
+   "bangla": [
+    "ব্র্যাক বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "BRAC University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "eastwest",
+    "eastwestuniversity"
+   ],
+   "bangla": [
+    "ইস্ট ওয়েস্ট বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "East West University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "daffodil",
+    "daffodilinternationaluniversity"
+   ],
+   "bangla": [
+    "ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটি"
+   ],
+   "kind": "university",
+   "english": "Daffodil International University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "unitedinternationaluniversity"
+   ],
+   "bangla": [
+    "ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটি"
+   ],
+   "kind": "university",
+   "english": "United International University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "asiapacific",
+    "universityofasiapacific"
+   ],
+   "bangla": [
+    "ইউনিভার্সিটি অব এশিয়া প্যাসিফিক"
+   ],
+   "kind": "university",
+   "english": "University of Asia Pacific",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "southeastuniversity"
+   ],
+   "bangla": [
+    "সাউথইস্ট ইউনিভার্সিটি"
+   ],
+   "kind": "university",
+   "english": "Southeast University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "greenuniversity"
+   ],
+   "bangla": [
+    "গ্রিন ইউনিভার্সিটি অব বাংলাদেশ"
+   ],
+   "kind": "university",
+   "english": "Green University of Bangladesh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "gonobishwabidyalay",
+    "gonouniversity"
+   ],
+   "bangla": [
+    "গণ বিশ্ববিদ্যালয়"
+   ],
+   "kind": "university",
+   "english": "Gono Bishwabidyalay",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "leadinguniversity"
+   ],
+   "bangla": [
+    "লিডিং ইউনিভার্সিটি"
+   ],
+   "kind": "university",
+   "english": "Leading University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "manarat",
+    "manaratinternationaluniversity"
+   ],
+   "bangla": [
+    "মানারাত ইন্টারন্যাশনাল ইউনিভার্সিটি"
+   ],
+   "kind": "university",
+   "english": "Manarat International University",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bangladeshuniversityofbusinessandtechnology"
+   ],
+   "bangla": [
+    "বাংলাদেশ ইউনিভার্সিটি অব বিজনেস অ্যান্ড টেকনোলজি"
+   ],
+   "kind": "university",
+   "english": "Bangladesh University of Business and Technology",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_সরকারি_বিশ্ববিদ্যালয়ের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bangladeshbank"
+   ],
+   "bangla": [
+    "বাংলাদেশ ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Bangladesh Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title (via en.wikipedia langlink)"
+  },
+  {
+   "roman": [
+    "sonali",
+    "sonalibank"
+   ],
+   "bangla": [
+    "সোনালী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Sonali Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "janata",
+    "janatabank",
+    "jonota"
+   ],
+   "bangla": [
+    "জনতা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Janata Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "agrani",
+    "agranibank",
+    "ogroni"
+   ],
+   "bangla": [
+    "অগ্রণী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Agrani Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "rupali",
+    "rupalibank"
+   ],
+   "bangla": [
+    "রূপালী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Rupali Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "basic",
+    "basicbank"
+   ],
+   "bangla": [
+    "বেসিক ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "BASIC Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bangladeshdevelopmentbank"
+   ],
+   "bangla": [
+    "বাংলাদেশ ডেভেলপমেন্ট ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Bangladesh Development Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "pubali",
+    "pubalibank"
+   ],
+   "bangla": [
+    "পূবালী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Pubali Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "uttara",
+    "uttarabank"
+   ],
+   "bangla": [
+    "উত্তরা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Uttara Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "ific",
+    "ificbank"
+   ],
+   "bangla": [
+    "আইএফআইসি ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "IFIC Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "ucbbank",
+    "unitedcommercialbank"
+   ],
+   "bangla": [
+    "ইউনাইটেড কমার্শিয়াল ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "United Commercial Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "citybank"
+   ],
+   "bangla": [
+    "সিটি ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "The City Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "nationalbank"
+   ],
+   "bangla": [
+    "ন্যাশনাল ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "National Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "easternbank",
+    "ebbank"
+   ],
+   "bangla": [
+    "ইস্টার্ণ ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Eastern Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "dhakabank"
+   ],
+   "bangla": [
+    "ঢাকা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Dhaka Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "primebank"
+   ],
+   "bangla": [
+    "প্রাইম ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Prime Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "mutualtrust",
+    "mutualtrustbank"
+   ],
+   "bangla": [
+    "মিউচুয়াল ট্রাস্ট ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Mutual Trust Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "southeast",
+    "southeastbank"
+   ],
+   "bangla": [
+    "সাউথইস্ট ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Southeast Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "onebank"
+   ],
+   "bangla": [
+    "ওয়ান ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "One Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "premierbank"
+   ],
+   "bangla": [
+    "প্রিমিয়ার ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Premier Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bankasia"
+   ],
+   "bangla": [
+    "ব্যাংক এশিয়া"
+   ],
+   "kind": "bank",
+   "english": "Bank Asia",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "mercantile",
+    "mercantilebank"
+   ],
+   "bangla": [
+    "মার্কেন্টাইল ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Mercantile Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "brac",
+    "bracbank"
+   ],
+   "bangla": [
+    "ব্র্যাক ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "BRAC Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "jamuna",
+    "jamunabank"
+   ],
+   "bangla": [
+    "যমুনা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Jamuna Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "padma",
+    "padmabank"
+   ],
+   "bangla": [
+    "পদ্মা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Padma Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "midlandbank"
+   ],
+   "bangla": [
+    "মিডল্যান্ড ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Midland Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "meghnabank"
+   ],
+   "bangla": [
+    "মেঘনা ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Meghna Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "islamibank",
+    "islamibankbangladesh"
+   ],
+   "bangla": [
+    "ইসলামী ব্যাংক বাংলাদেশ"
+   ],
+   "kind": "bank",
+   "english": "Islami Bank Bangladesh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "socialislamibank"
+   ],
+   "bangla": [
+    "সোশ্যাল ইসলামী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Social Islami Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "firstsecurity",
+    "firstsecurityislamibank"
+   ],
+   "bangla": [
+    "ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "First Security Islami Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "shahjalal",
+    "shahjalalislamibank"
+   ],
+   "bangla": [
+    "শাহ্‌জালাল ইসলামী ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Shahjalal Islami Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "standardchartered"
+   ],
+   "bangla": [
+    "স্ট্যান্ডার্ড চার্টার্ড বাংলাদেশ"
+   ],
+   "kind": "bank",
+   "english": "Standard Chartered Bangladesh",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "bangladeshkrishibank",
+    "krishibank"
+   ],
+   "bangla": [
+    "বাংলাদেশ কৃষি ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Bangladesh Krishi Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "rajshahikrishiunnayanbank"
+   ],
+   "bangla": [
+    "রাজশাহী কৃষি উন্নয়ন ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Rajshahi Krishi Unnayan Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "probashikallyanbank",
+    "probashikalyanbank"
+   ],
+   "bangla": [
+    "প্রবাসী কল্যাণ ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Probashi Kallyan Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "grameen",
+    "grameenbank"
+   ],
+   "bangla": [
+    "গ্রামীণ ব্যাংক"
+   ],
+   "kind": "bank",
+   "english": "Grameen Bank",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_ব্যাংকসমূহের_তালিকা",
+   "verifiedBy": "bn.wikipedia article title"
+  },
+  {
+   "roman": [
+    "jatiyarajasvaboard",
+    "jatiyorajoshboard",
+    "nationalboardofrevenue"
+   ],
+   "bangla": [
+    "জাতীয় রাজস্ব বোর্ড"
+   ],
+   "kind": "agency",
+   "english": "National Board of Revenue",
+   "source": "https://bn.wikipedia.org/wiki/জাতীয়_রাজস্ব_বোর্ড",
+   "verifiedBy": "nbr.gov.bd public notice page"
+  },
+  {
+   "roman": [
+    "bangladeshelectioncommission",
+    "bangladeshnirbachonkomishon",
+    "nirbachonkomishon"
+   ],
+   "bangla": [
+    "বাংলাদেশ নির্বাচন কমিশন"
+   ],
+   "kind": "agency",
+   "english": "Bangladesh Election Commission",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশ_নির্বাচন_কমিশন",
+   "verifiedBy": "ecs.gov.bd page title (tender-notice)"
+  },
+  {
+   "roman": [
+    "jatiosangsad",
+    "jatiyasangsad",
+    "jatiyosongsod"
+   ],
+   "bangla": [
+    "জাতীয় সংসদ"
+   ],
+   "kind": "agency",
+   "english": "Jatiya Sangsad",
+   "source": "https://bn.wikipedia.org/wiki/জাতীয়_সংসদ",
+   "verifiedBy": "parliament.gov.bd"
+  },
+  {
+   "roman": [
+    "banglaacademy",
+    "banglaakademi",
+    "banglaekademi"
+   ],
+   "bangla": [
+    "বাংলা একাডেমি"
+   ],
+   "kind": "agency",
+   "english": "Bangla Academy",
+   "source": "https://bn.wikipedia.org/wiki/বাংলা_একাডেমি",
+   "verifiedBy": "banglaacademy.gov.bd"
+  },
+  {
+   "roman": [
+    "bangladeshroadtransportauthority",
+    "brta"
+   ],
+   "bangla": [
+    "বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ"
+   ],
+   "kind": "agency",
+   "english": "Bangladesh Road Transport Authority",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশ_সড়ক_পরিবহন_কর্তৃপক্ষ",
+   "verifiedBy": "brta.gov.bd"
+  },
+  {
+   "roman": [
+    "bangladeshbureauofstatistics",
+    "porisonkhanbureau"
+   ],
+   "bangla": [
+    "বাংলাদেশ পরিসংখ্যান ব্যুরো"
+   ],
+   "kind": "agency",
+   "english": "Bangladesh Bureau of Statistics",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশ_পরিসংখ্যান_ব্যুরো",
+   "verifiedBy": "bbs.gov.bd"
+  },
+  {
+   "roman": [
+    "anticorruptioncommission",
+    "dudok",
+    "durnitidomonkomishon"
+   ],
+   "bangla": [
+    "দুর্নীতি দমন কমিশন"
+   ],
+   "kind": "agency",
+   "english": "Anti-Corruption Commission",
+   "source": "https://bn.wikipedia.org/wiki/দুর্নীতি_দমন_কমিশন_(বাংলাদেশ)",
+   "verifiedBy": "acc.org.bd"
+  },
+  {
+   "roman": [
+    "padma",
+    "podda",
+    "poddo"
+   ],
+   "bangla": [
+    "পদ্মা"
+   ],
+   "kind": "river",
+   "english": "Padma",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "meghna",
+    "meghona"
+   ],
+   "bangla": [
+    "মেঘনা"
+   ],
+   "kind": "river",
+   "english": "Meghna",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "jamuna",
+    "jomuna"
+   ],
+   "bangla": [
+    "যমুনা"
+   ],
+   "kind": "river",
+   "english": "Jamuna",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "brahmaputra",
+    "bramhaputra",
+    "brommoputro"
+   ],
+   "bangla": [
+    "ব্রহ্মপুত্র"
+   ],
+   "kind": "river",
+   "english": "Brahmaputra",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "teesta",
+    "tista"
+   ],
+   "bangla": [
+    "তিস্তা"
+   ],
+   "kind": "river",
+   "english": "Teesta",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "shurma",
+    "surma"
+   ],
+   "bangla": [
+    "সুরমা"
+   ],
+   "kind": "river",
+   "english": "Surma",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "buriganga",
+    "burigongga"
+   ],
+   "bangla": [
+    "বুড়িগঙ্গা"
+   ],
+   "kind": "river",
+   "english": "Buriganga",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "madhumati",
+    "modhumati",
+    "modhumoti"
+   ],
+   "bangla": [
+    "মধুমতি"
+   ],
+   "kind": "river",
+   "english": "Madhumati",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী (table; also মধুমতী elsewhere)"
+  },
+  {
+   "roman": [
+    "kushiara",
+    "kushiyara"
+   ],
+   "bangla": [
+    "কুশিয়ারা"
+   ],
+   "kind": "river",
+   "english": "Kushiyara",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "sangu",
+    "shangu"
+   ],
+   "bangla": [
+    "সাঙ্গু"
+   ],
+   "kind": "river",
+   "english": "Sangu",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "dhaleshwari",
+    "dhaleswari",
+    "dholeshwari"
+   ],
+   "bangla": [
+    "ধলেশ্বরী"
+   ],
+   "kind": "river",
+   "english": "Dhaleshwari",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "shitalakshya",
+    "shitolokkha",
+    "sitalakhya"
+   ],
+   "bangla": [
+    "শীতলক্ষ্যা"
+   ],
+   "kind": "river",
+   "english": "Shitalakshya",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "garai",
+    "gorai"
+   ],
+   "bangla": [
+    "গড়াই"
+   ],
+   "kind": "river",
+   "english": "Gorai",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "arialkha",
+    "arialkhan",
+    "ariyalkha"
+   ],
+   "bangla": [
+    "আড়িয়াল খাঁ"
+   ],
+   "kind": "river",
+   "english": "Arial Khan",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "atrai",
+    "attrai"
+   ],
+   "bangla": [
+    "আত্রাই"
+   ],
+   "kind": "river",
+   "english": "Atrai",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "mahananda",
+    "mohanondo"
+   ],
+   "bangla": [
+    "মহানন্দা"
+   ],
+   "kind": "river",
+   "english": "Mahananda",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "kapotaksha",
+    "kopotakho",
+    "kopotakkho"
+   ],
+   "bangla": [
+    "কপোতাক্ষ"
+   ],
+   "kind": "river",
+   "english": "Kapotaksha",
+   "source": "https://bn.wikipedia.org/wiki/বাংলাদেশের_নদীর_তালিকা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/নদী"
+  },
+  {
+   "roman": [
+    "grameenfone",
+    "grameenphon",
+    "grameenphone"
+   ],
+   "bangla": [
+    "গ্রামীণফোন"
+   ],
+   "kind": "company",
+   "english": "Grameenphone",
+   "source": "https://bn.wikipedia.org/wiki/গ্রামীণফোন",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "banglalinc",
+    "banglalink"
+   ],
+   "bangla": [
+    "বাংলালিংক"
+   ],
+   "kind": "company",
+   "english": "Banglalink",
+   "source": "https://bn.wikipedia.org/wiki/বাংলালিংক",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "teletalk",
+    "teletok"
+   ],
+   "bangla": [
+    "টেলিটক"
+   ],
+   "kind": "company",
+   "english": "Teletalk",
+   "source": "https://bn.wikipedia.org/wiki/টেলিটক",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "bashundharagroup",
+    "bashundhoragroup",
+    "bosundharagroup"
+   ],
+   "bangla": [
+    "বসুন্ধরা গ্রুপ"
+   ],
+   "kind": "company",
+   "english": "Bashundhara Group",
+   "source": "https://bn.wikipedia.org/wiki/বসুন্ধরা_গ্রুপ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "oyaltongroup",
+    "waltongroup"
+   ],
+   "bangla": [
+    "ওয়ালটন গ্রুপ"
+   ],
+   "kind": "company",
+   "english": "Walton Group",
+   "source": "https://bn.wikipedia.org/wiki/ওয়ালটন_গ্রুপ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "oalton",
+    "oyalton",
+    "walton"
+   ],
+   "bangla": [
+    "ওয়ালটন"
+   ],
+   "kind": "company",
+   "english": "Walton",
+   "source": "https://bn.wikipedia.org/wiki/ওয়ালটন_গ্রুপ",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "bekshimko",
+    "beksimko",
+    "beximco"
+   ],
+   "bangla": [
+    "বেক্সিমকো"
+   ],
+   "kind": "company",
+   "english": "Beximco",
+   "source": "https://bn.wikipedia.org/wiki/বেক্সিমকো",
+   "verifiedBy": "https://bn.wikipedia.org/wiki/বাংলাদেশের_কোম্পানির_তালিকা"
+  },
+  {
+   "roman": [
+    "darajh",
+    "daraz"
+   ],
+   "bangla": [
+    "দারাজ"
+   ],
+   "kind": "company",
+   "english": "Daraz",
+   "source": "https://bn.wikipedia.org/wiki/দারাজ",
+   "verifiedBy": "https://bangla.thedailystar.net/business/news-386401"
+  },
+  {
+   "roman": [
+    "rahman",
+    "rohman"
+   ],
+   "bangla": [
+    "রহমান"
+   ],
+   "kind": "name",
+   "english": "Rahman",
+   "source": "https://bn.wikipedia.org/wiki/জিয়াউর_রহমান",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/শেখ_মুজিবুর_রহমান"
+  },
+  {
+   "roman": [
+    "hosen",
+    "hossain",
+    "hossen"
+   ],
+   "bangla": [
+    "হোসেন"
+   ],
+   "kind": "name",
+   "english": "Hossain",
+   "source": "https://bn.wikipedia.org/wiki/কামাল_হোসেন",
+   "verifiedBy": "Banglapedia article 'হোসেন, তফাজ্জল'"
+  },
+  {
+   "roman": [
+    "islam"
+   ],
+   "bangla": [
+    "ইসলাম"
+   ],
+   "kind": "name",
+   "english": "Islam",
+   "source": "https://bn.wikipedia.org/wiki/কাজী_নজরুল_ইসলাম",
+   "verifiedBy": "Banglapedia article 'ইসলাম, কাজী নজরুল'"
+  },
+  {
+   "roman": [
+    "ahmad",
+    "ahmed"
+   ],
+   "bangla": [
+    "আহমেদ"
+   ],
+   "kind": "name",
+   "english": "Ahmed",
+   "source": "https://bn.wikipedia.org/wiki/হুমায়ূন_আহমেদ",
+   "verifiedBy": "Banglapedia article 'আহমেদ, জিয়াউদ্দিন'"
+  },
+  {
+   "roman": [
+    "choudhury",
+    "chowdhuri",
+    "chowdhury"
+   ],
+   "bangla": [
+    "চৌধুরী"
+   ],
+   "kind": "name",
+   "english": "Chowdhury",
+   "source": "https://bn.wikipedia.org/wiki/সাবের_হোসেন_চৌধুরী",
+   "verifiedBy": "Banglapedia article 'চৌধুরী'"
+  },
+  {
+   "roman": [
+    "begom",
+    "begum"
+   ],
+   "bangla": [
+    "বেগম"
+   ],
+   "kind": "name",
+   "english": "Begum",
+   "source": "https://bn.wikipedia.org/wiki/বেগম_রোকেয়া",
+   "verifiedBy": "Banglapedia article 'বেগম রোকেয়া'"
+  },
+  {
+   "roman": [
+    "khatoon",
+    "khatun"
+   ],
+   "bangla": [
+    "খাতুন"
+   ],
+   "kind": "name",
+   "english": "Khatun",
+   "source": "https://bn.wikipedia.org/wiki/সালমা_খাতুন",
+   "verifiedBy": "Banglapedia article 'খাতুন, খোদেজা'"
+  },
+  {
+   "roman": [
+    "haque",
+    "hoque"
+   ],
+   "bangla": [
+    "হক"
+   ],
+   "kind": "name",
+   "english": "Huq / Haque",
+   "source": "https://bn.wikipedia.org/wiki/এ_কে_ফজলুল_হক",
+   "verifiedBy": "Banglapedia article 'হক, ওয়াহিদুল'"
+  },
+  {
+   "roman": [
+    "alam"
+   ],
+   "bangla": [
+    "আলম"
+   ],
+   "kind": "name",
+   "english": "Alam",
+   "source": "https://bn.wikipedia.org/wiki/জাহানারা_আলম",
+   "verifiedBy": "Banglapedia article 'আলম, ওহীদুল'"
+  },
+  {
+   "roman": [
+    "hasan",
+    "hassan"
+   ],
+   "bangla": [
+    "হাসান"
+   ],
+   "kind": "name",
+   "english": "Hasan",
+   "source": "https://bn.wikipedia.org/wiki/সাকিব_আল_হাসান",
+   "verifiedBy": "Banglapedia article 'হাসান, কামরুল'"
+  },
+  {
+   "roman": [
+    "mahmood",
+    "mahmud"
+   ],
+   "bangla": [
+    "মাহমুদ"
+   ],
+   "kind": "name",
+   "english": "Mahmud",
+   "source": "https://bn.wikipedia.org/wiki/আলতাফ_মাহমুদ",
+   "verifiedBy": "Banglapedia article 'মাহমুদ, মামুন'"
+  },
+  {
+   "roman": [
+    "saha"
+   ],
+   "bangla": [
+    "সাহা"
+   ],
+   "kind": "name",
+   "english": "Saha",
+   "source": "https://bn.wikipedia.org/wiki/বিদ্যা_সিনহা_সাহা_মীম",
+   "verifiedBy": "Banglapedia article 'মেঘনাদ সাহা'"
+  },
+  {
+   "roman": [
+    "mohammad",
+    "mohammed",
+    "muhammad"
+   ],
+   "bangla": [
+    "মোহাম্মদ"
+   ],
+   "kind": "name",
+   "english": "Mohammad",
+   "source": "https://bn.wikipedia.org/wiki/মোহাম্মদ_আশরাফুল",
+   "verifiedBy": "Banglapedia article 'মনিরুজ্জামান, মোহাম্মদ'"
+  },
+  {
+   "roman": [
+    "rahim",
+    "rohim"
+   ],
+   "bangla": [
+    "রহিম"
+   ],
+   "kind": "name",
+   "english": "Rahim",
+   "source": "https://bn.wikipedia.org/wiki/মুশফিকুর_রহিম",
+   "verifiedBy": "Banglapedia article 'রহিম, আবদুর'"
+  },
+  {
+   "roman": [
+    "kanaighat"
+   ],
+   "bangla": [
+    "কানাইঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Kanaighat",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "companiganj",
+    "companigonj",
+    "kompaniganj"
+   ],
+   "bangla": [
+    "কোম্পানীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Companiganj",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "golapganj",
+    "golapgonj"
+   ],
+   "bangla": [
+    "গোলাপগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Golapganj",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "goainghat",
+    "gowainghat"
+   ],
+   "bangla": [
+    "গোয়াইনঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Gowainghat",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "jakiganj",
+    "jokigonj",
+    "zakiganj"
+   ],
+   "bangla": [
+    "জকিগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Zakiganj",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "jaintapur",
+    "jaintiapur",
+    "jointapur"
+   ],
+   "bangla": [
+    "জৈন্তাপুর"
+   ],
+   "kind": "upazila",
+   "english": "Jaintiapur",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "dakshinsurma",
+    "dokkhinsurma",
+    "southsurma"
+   ],
+   "bangla": [
+    "দক্ষিণ সুরমা"
+   ],
+   "kind": "upazila",
+   "english": "Dakshin Surma",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "fenchuganj",
+    "fenchugonj"
+   ],
+   "bangla": [
+    "ফেঞ্চুগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Fenchuganj",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "balaganj",
+    "balagonj"
+   ],
+   "bangla": [
+    "বালাগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Balaganj",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "bishwanath",
+    "biswanath"
+   ],
+   "bangla": [
+    "বিশ্বনাথ"
+   ],
+   "kind": "upazila",
+   "english": "Bishwanath",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "beanibazar",
+    "bianibazar"
+   ],
+   "bangla": [
+    "বিয়ানীবাজার"
+   ],
+   "kind": "upazila",
+   "english": "Beanibazar",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "sylhetsadar",
+    "sylhetsodor"
+   ],
+   "bangla": [
+    "সিলেট সদর"
+   ],
+   "kind": "upazila",
+   "english": "Sylhet Sadar",
+   "source": "bn.wikipedia.org/wiki/সিলেট_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/সিলেট_জেলা"
+  },
+  {
+   "roman": [
+    "kamalganj",
+    "kamalgonj",
+    "komolgonj"
+   ],
+   "bangla": [
+    "কমলগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Kamalganj",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা; moulvibazar.gov.bd"
+  },
+  {
+   "roman": [
+    "kulaora",
+    "kulaura"
+   ],
+   "bangla": [
+    "কুলাউড়া"
+   ],
+   "kind": "upazila",
+   "english": "Kulaura",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা; moulvibazar.gov.bd"
+  },
+  {
+   "roman": [
+    "juri",
+    "jurri"
+   ],
+   "bangla": [
+    "জুড়ী"
+   ],
+   "kind": "upazila",
+   "english": "Juri",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা; moulvibazar.gov.bd"
+  },
+  {
+   "roman": [
+    "barlekha",
+    "borlekha"
+   ],
+   "bangla": [
+    "বড়লেখা"
+   ],
+   "kind": "upazila",
+   "english": "Barlekha",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা; moulvibazar.gov.bd"
+  },
+  {
+   "roman": [
+    "maulvibazar",
+    "moulvibazar",
+    "moulvibazarsadar"
+   ],
+   "bangla": [
+    "মৌলভীবাজার সদর"
+   ],
+   "kind": "upazila",
+   "english": "Moulvibazar Sadar",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "rajnagar",
+    "rajnogor"
+   ],
+   "bangla": [
+    "রাজনগর"
+   ],
+   "kind": "upazila",
+   "english": "Rajnagar",
+   "source": "bn.wikipedia.org/wiki/মৌলভীবাজার_জেলা",
+   "verifiedBy": "https://bn.banglapedia.org/index.php/মৌলভীবাজার_জেলা"
+  },
+  {
+   "roman": [
+    "ajmiriganj",
+    "ajmirigonj",
+    "azmiriganj"
+   ],
+   "bangla": [
+    "আজমিরীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Ajmiriganj",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "http://ajmiriganj.habiganj.gov.bd/ (Banglapedia spells আজমিরিগঞ্জ)"
+  },
+  {
+   "roman": [
+    "chunarughaat",
+    "chunarughat"
+   ],
+   "bangla": [
+    "চুনারুঘাট"
+   ],
+   "kind": "upazila",
+   "english": "Chunarughat",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia হবিগঞ্জ জেলা"
+  },
+  {
+   "roman": [
+    "nabiganj",
+    "nabigonj",
+    "nobiganj"
+   ],
+   "bangla": [
+    "নবীগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Nabiganj",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia হবিগঞ্জ জেলা"
+  },
+  {
+   "roman": [
+    "baniachang",
+    "baniachong",
+    "baniyachong"
+   ],
+   "bangla": [
+    "বানিয়াচং"
+   ],
+   "kind": "upazila",
+   "english": "Baniachong",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia; habiganj.gov.bd"
+  },
+  {
+   "roman": [
+    "bahubal",
+    "bahubol"
+   ],
+   "bangla": [
+    "বাহুবল"
+   ],
+   "kind": "upazila",
+   "english": "Bahubal",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia হবিগঞ্জ জেলা"
+  },
+  {
+   "roman": [
+    "madhabpur",
+    "madhavpur",
+    "madhobpur"
+   ],
+   "bangla": [
+    "মাধবপুর"
+   ],
+   "kind": "upazila",
+   "english": "Madhabpur",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia; habiganj.gov.bd"
+  },
+  {
+   "roman": [
+    "lakhai",
+    "lakhay"
+   ],
+   "bangla": [
+    "লাখাই"
+   ],
+   "kind": "upazila",
+   "english": "Lakhai",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia হবিগঞ্জ জেলা"
+  },
+  {
+   "roman": [
+    "sayestaganj",
+    "shaistaganj",
+    "shayestaganj"
+   ],
+   "bangla": [
+    "শায়েস্তাগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Shayestaganj",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "http://shayestaganj.habiganj.gov.bd/"
+  },
+  {
+   "roman": [
+    "habiganjsadar",
+    "habigonjsadar",
+    "hobiganjsadar"
+   ],
+   "bangla": [
+    "হবিগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Habiganj Sadar",
+   "source": "bn.wikipedia.org/wiki/হবিগঞ্জ_জেলা",
+   "verifiedBy": "Banglapedia; habiganj.gov.bd"
+  },
+  {
+   "roman": [
+    "chatak",
+    "chhatak"
+   ],
+   "bangla": [
+    "ছাতক"
+   ],
+   "kind": "upazila",
+   "english": "Chhatak",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://chhatak.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "jagannathpur",
+    "jagonnathpur"
+   ],
+   "bangla": [
+    "জগন্নাথপুর"
+   ],
+   "kind": "upazila",
+   "english": "Jagannathpur",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://jagannathpur.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "jamalganj",
+    "jamalgonj"
+   ],
+   "bangla": [
+    "জামালগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Jamalganj",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://jamalganj.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "tahirpur"
+   ],
+   "bangla": [
+    "তাহিরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Tahirpur",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://tahirpur.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "santiganj",
+    "shantiganj",
+    "shantigonj"
+   ],
+   "bangla": [
+    "শান্তিগঞ্জ"
+   ],
+   "kind": "upazila",
+   "english": "Shantiganj",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://shantiganj.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "derai",
+    "dirai"
+   ],
+   "bangla": [
+    "দিরাই"
+   ],
+   "kind": "upazila",
+   "english": "Derai",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://derai.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "doarabazar",
+    "dowarabazar"
+   ],
+   "bangla": [
+    "দোয়ারাবাজার"
+   ],
+   "kind": "upazila",
+   "english": "Dowarabazar",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://dowarabazar.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "dharamapasha",
+    "dharmapasha"
+   ],
+   "bangla": [
+    "ধর্মপাশা"
+   ],
+   "kind": "upazila",
+   "english": "Dharamapasha",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://dharmapasha.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "bishwambarpur",
+    "biswambharpur"
+   ],
+   "bangla": [
+    "বিশ্বম্ভরপুর"
+   ],
+   "kind": "upazila",
+   "english": "Bishwambarpur",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://bishwambarpur.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "shalla",
+    "sulla"
+   ],
+   "bangla": [
+    "শাল্লা"
+   ],
+   "kind": "upazila",
+   "english": "Sulla",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://shalla.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "sunamganjsadar",
+    "sunamgonjsadar"
+   ],
+   "bangla": [
+    "সুনামগঞ্জ সদর"
+   ],
+   "kind": "upazila",
+   "english": "Sunamganj Sadar",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://sadar.sunamganj.gov.bd/bn"
+  },
+  {
+   "roman": [
+    "madhyanagar",
+    "moddhonagar"
+   ],
+   "bangla": [
+    "মধ্যনগর"
+   ],
+   "kind": "upazila",
+   "english": "Madhyanagar",
+   "source": "bn.wikipedia.org",
+   "verifiedBy": "https://madhyanagar.sunamganj.gov.bd/bn"
+  }
+ ]
+}

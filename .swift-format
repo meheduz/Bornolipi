@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "lineLength": 160,
+  "indentation": { "spaces": 4 },
+  "maximumBlankLines": 1,
+  "respectsExistingLineBreaks": true,
+  "lineBreakBeforeEachArgument": false,
+  "lineBreakBeforeControlFlowKeywords": false,
+  "prioritizeKeepingFunctionOutputTogether": true,
+  "multiElementCollectionTrailingCommas": true,
+  "rules": {
+    "DoNotUseSemicolons": false,
+    "OneVariableDeclarationPerLine": false,
+    "OrderedImports": false,
+    "GroupNumericLiterals": false,
+    "UseTripleSlashForDocumentationComments": true,
+    "AlwaysUseLowerCamelCase": true,
+    "NeverUseForceTry": false,
+    "NeverForceUnwrap": false
+  }
+}

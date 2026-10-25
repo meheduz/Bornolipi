@@ -1,0 +1,187 @@
+# input	expected	category	source	kind (expect: should be offered; mustNot: must not be offered)
+sust	সাস্ট	acronym-lower	maintainer-specified (task brief)	expect
+SUST	সাস্ট	acronym-upper	maintainer-specified (task brief)	expect
+buet	বুয়েট	acronym-lower	maintainer-specified (task brief)	expect
+BUET	বুয়েট	acronym-upper	maintainer-specified (task brief)	expect
+cuet	চুয়েট	acronym-lower	maintainer-specified (task brief)	expect
+CUET	চুয়েট	acronym-upper	maintainer-specified (task brief)	expect
+ruet	রুয়েট	acronym-lower	maintainer-specified (task brief)	expect
+RUET	রুয়েট	acronym-upper	maintainer-specified (task brief)	expect
+kuet	কুয়েট	acronym-lower	maintainer-specified (task brief)	expect
+KUET	কুয়েট	acronym-upper	maintainer-specified (task brief)	expect
+NSU	এনএসইউ	acronym-upper	common Bangladeshi usage of English letter names	expect
+IUT	আইইউটি	acronym-upper	common Bangladeshi usage of English letter names	expect
+AIUB	এআইইউবি	acronym-upper	common Bangladeshi usage of English letter names	expect
+DIU	ডিআইইউ	acronym-upper	common Bangladeshi usage of English letter names	expect
+UIU	ইউআইইউ	acronym-upper	common Bangladeshi usage of English letter names	expect
+BRAC	ব্র্যাক	acronym-upper	common Bangladeshi usage of English letter names	expect
+ICT	আইসিটি	acronym-upper	common Bangladeshi usage of English letter names	expect
+BNP	বিএনপি	acronym-upper	common Bangladeshi usage of English letter names	expect
+NGO	এনজিও	acronym-upper	common Bangladeshi usage of English letter names	expect
+CSE	সিএসই	acronym-upper	common Bangladeshi usage of English letter names	expect
+EEE	ইইই	acronym-upper	common Bangladeshi usage of English letter names	expect
+USA	ইউএসএ	acronym-upper	common Bangladeshi usage of English letter names	expect
+DU	ঢাবি	acronym-upper	common Bengali short form of university names	expect
+JU	জাবি	acronym-upper	common Bengali short form of university names	expect
+CU	চবি	acronym-upper	common Bengali short form of university names	expect
+RU	রাবি	acronym-upper	common Bengali short form of university names	expect
+du	ঢাবি	false-positive-probe	must not appear for lowercase input	mustNot
+ju	জাবি	false-positive-probe	must not appear for lowercase input	mustNot
+cu	চবি	false-positive-probe	must not appear for lowercase input	mustNot
+ru	রাবি	false-positive-probe	must not appear for lowercase input	mustNot
+it	আইটি	false-positive-probe	must not appear for lowercase input	mustNot
+us	ইউএস	false-positive-probe	must not appear for lowercase input	mustNot
+am	এএম	false-positive-probe	must not appear for lowercase input	mustNot
+dhaka	ঢাকা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+faridpur	ফরিদপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+tangail	টাঙ্গাইল	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+gazipur	গাজীপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+narayanganj	নারায়ণগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+kishoreganj	কিশোরগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+narsingdi	নরসিংদী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+munshiganj	মুন্সীগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+manikganj	মানিকগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+gopalganj	গোপালগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+shariatpur	শরীয়তপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+madaripur	মাদারীপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+rajbari	রাজবাড়ী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+chittagong	চট্টগ্রাম	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+cumilla	কুমিল্লা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+noakhali	নোয়াখালী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+rangamati	রাঙ্গামাটি	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+bandarban	বান্দরবান	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+khagrachhari	খাগড়াছড়ি	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+brahmanbaria	ব্রাহ্মণবাড়িয়া	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+coxsbazar	কক্সবাজার	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+chandpur	চাঁদপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+lakshmipur	লক্ষ্মীপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+feni	ফেনী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+rajshahi	রাজশাহী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+bogura	বগুড়া	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+pabna	পাবনা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+joypurhat	জয়পুরহাট	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+sirajganj	সিরাজগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+naogaon	নওগাঁ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+natore	নাটোর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+chapainawabganj	চাঁপাইনবাবগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+jashore	যশোর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+khulna	খুলনা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+kushtia	কুষ্টিয়া	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+satkhira	সাতক্ষীরা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+jhenaidah	ঝিনাইদহ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+bagerhat	বাগেরহাট	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+chuadanga	চুয়াডাঙ্গা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+magura	মাগুরা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+narail	নড়াইল	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+meherpur	মেহেরপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+barishal	বরিশাল	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+patuakhali	পটুয়াখালী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+bhola	ভোলা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+pirojpur	পিরোজপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+barguna	বরগুনা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+jhalokati	ঝালকাঠি	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+sylhet	সিলেট	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+sunamganj	সুনামগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+habiganj	হবিগঞ্জ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+moulvibazar	মৌলভীবাজার	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+rangpur	রংপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+nilphamari	নীলফামারী	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+dinajpur	দিনাজপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+thakurgaon	ঠাকুরগাঁও	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+gaibandha	গাইবান্ধা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+kurigram	কুড়িগ্রাম	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+lalmonirhat	লালমনিরহাট	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+panchagarh	পঞ্চগড়	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+mymensingh	ময়মনসিংহ	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+jamalpur	জামালপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+netrokona	নেত্রকোণা	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+sherpur	শেরপুর	district	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+chattogram	চট্টগ্রাম	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+comilla	কুমিল্লা	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+bogra	বগুড়া	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+jessore	যশোর	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+barisal	বরিশাল	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+coxsbazaar	কক্সবাজার	district-alternate-spelling	Bengali: teachers.gov.bd district list; English: Wikipedia Districts of Bangladesh	expect
+kmn	কেমন	banglish	standard Bengali spelling of a common word	expect
+kemon	কেমন	banglish	standard Bengali spelling of a common word	expect
+vlo	ভালো	banglish	standard Bengali spelling of a common word	expect
+valo	ভালো	banglish	standard Bengali spelling of a common word	expect
+bhalo	ভালো	banglish	standard Bengali spelling of a common word	expect
+achi	আছি	banglish	standard Bengali spelling of a common word	expect
+asi	আছি	banglish	standard Bengali spelling of a common word	expect
+aci	আছি	banglish	standard Bengali spelling of a common word	expect
+hocche	হচ্ছে	banglish	standard Bengali spelling of a common word	expect
+hocce	হচ্ছে	banglish	standard Bengali spelling of a common word	expect
+hosse	হচ্ছে	banglish	standard Bengali spelling of a common word	expect
+korchi	করছি	banglish	standard Bengali spelling of a common word	expect
+kichu	কিছু	banglish	standard Bengali spelling of a common word	expect
+kisu	কিছু	banglish	standard Bengali spelling of a common word	expect
+ekhon	এখন	banglish	standard Bengali spelling of a common word	expect
+akhon	এখন	banglish	standard Bengali spelling of a common word	expect
+keno	কেন	banglish	standard Bengali spelling of a common word	expect
+kno	কেন	banglish	standard Bengali spelling of a common word	expect
+shob	সব	banglish	standard Bengali spelling of a common word	expect
+sob	সব	banglish	standard Bengali spelling of a common word	expect
+dhonnobad	ধন্যবাদ	banglish	standard Bengali spelling of a common word	expect
+donnobad	ধন্যবাদ	banglish	standard Bengali spelling of a common word	expect
+donobad	ধন্যবাদ	banglish	standard Bengali spelling of a common word	expect
+kortesi	করতেছি	banglish-colloquial	colloquial (regional) form	expect
+computer	কম্পিউটার	loanword	conventional Bengali spelling of an English loanword	expect
+mobile	মোবাইল	loanword	conventional Bengali spelling of an English loanword	expect
+school	স্কুল	loanword	conventional Bengali spelling of an English loanword	expect
+facebook	ফেসবুক	loanword	conventional Bengali spelling of an English loanword	expect
+internet	ইন্টারনেট	loanword	conventional Bengali spelling of an English loanword	expect
+software	সফটওয়্যার	loanword	conventional Bengali spelling of an English loanword	expect
+keyboard	কিবোর্ড	loanword	conventional Bengali spelling of an English loanword	expect
+university	ইউনিভার্সিটি	loanword	conventional Bengali spelling of an English loanword	expect
+technology	টেকনোলজি	loanword	conventional Bengali spelling of an English loanword	expect
+programming	প্রোগ্রামিং	loanword	conventional Bengali spelling of an English loanword	expect
+computerer	কম্পিউটারের	suffix	conventional Bengali spelling of an English loanword	expect
+schoolta	স্কুলটা	suffix	conventional Bengali spelling of an English loanword	expect
+mobilegulo	মোবাইলগুলো	suffix	conventional Bengali spelling of an English loanword	expect
+facebooke	ফেসবুকে	suffix	conventional Bengali spelling of an English loanword	expect
+schooler	স্কুলের	suffix	conventional Bengali spelling of an English loanword	expect
+internete	ইন্টারনেটে	suffix	conventional Bengali spelling of an English loanword	expect
+bondhuder	বন্ধুদের	suffix	standard Bengali spelling of a common word	expect
+valobashar	ভালোবাসার	suffix	standard Bengali spelling of a common word	expect
+ami	আমি	common	standard Bengali spelling of a common word	expect
+tumi	তুমি	common	standard Bengali spelling of a common word	expect
+amra	আমরা	common	standard Bengali spelling of a common word	expect
+bangla	বাংলা	common	standard Bengali spelling of a common word	expect
+kotha	কথা	common	standard Bengali spelling of a common word	expect
+sokal	সকাল	common	standard Bengali spelling of a common word	expect
+bhalobasha	ভালোবাসা	common	standard Bengali spelling of a common word	expect
+ghor	ঘর	common	standard Bengali spelling of a common word	expect
+pani	পানি	common	standard Bengali spelling of a common word	expect
+bhat	ভাত	common	standard Bengali spelling of a common word	expect
+boi	বই	common	standard Bengali spelling of a common word	expect
+din	দিন	common	standard Bengali spelling of a common word	expect
+rat	রাত	common	standard Bengali spelling of a common word	expect
+manush	মানুষ	common	standard Bengali spelling of a common word	expect
+desh	দেশ	common	standard Bengali spelling of a common word	expect
+password	পিসবোর্ড	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+bristi	বারাসাত	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+shadhinota	ওষধিনাথ	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+gyani	গাঁজনি	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+siddique	সাদিক	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+jessor	অজস্র	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+brikkho	বারিকোষ	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+daktar	ডাক্তারি	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+poriborton	অপরিবর্তন	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+tren	ত্রিন	loose-false-positive	unrelated word with the same consonant classes (development set)	mustNot
+daktar	ডাক্তার	loose-informal	informal spelling of a known word (development set)	expect
+poriborton	পরিবর্তন	loose-informal	informal spelling of a known word (development set)	expect
+tren	ট্রেন	loose-informal	informal spelling of a known word (development set)	expect
+jessor	যশোর	loose-informal	informal spelling of a known word (development set)	expect
+haspatal	হাসপাতাল	loose-informal	informal spelling of a known word (development set)	expect
+kompiutar	কম্পিউটার	loose-informal	informal spelling of a known word (development set)	expect
+mondol	মণ্ডল	loose-informal	informal spelling of a known word (development set)	expect
+
+bari	বাড়ি	informal-romanisation	informal habit Avro reads differently (development set)	expect
+gari	গাড়ি	informal-romanisation	informal habit Avro reads differently (development set)	expect
+pahar	পাহাড়	informal-romanisation	informal habit Avro reads differently (development set)	expect
+taka	টাকা	informal-romanisation	informal habit Avro reads differently (development set)	expect
+chhatro	ছাত্র	informal-romanisation	informal habit Avro reads differently (development set)	expect
+gyani	জ্ঞানী	informal-romanisation	informal habit Avro reads differently (development set)	expect
+juddho	যুদ্ধ	informal-romanisation	informal habit Avro reads differently (development set)	expect
+bristi	বৃষ্টি	informal-romanisation	informal habit Avro reads differently (development set)	expect

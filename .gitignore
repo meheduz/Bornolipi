@@ -1,0 +1,24 @@
+.build/
+build/
+.swiftpm/
+*.xcodeproj
+.DS_Store
+logs/
+.vscode/
+# Never publish release images, signing material, crash reports or local secrets
+*.dmg
+*.p12
+*.cer
+*.provisionprofile
+*.ips
+.env
+*.pem
+*.key
+*.mobileprovision
+*.keychain-db
+*.crash
+*.log
+*.xcarchive
+DerivedData/
+xcuserdata/
+__pycache__/

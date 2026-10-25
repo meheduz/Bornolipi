@@ -1,0 +1,5 @@
+/* Input menu and System Settings names. Input modes are looked up by their mode ID. */
+"CFBundleName" = "__NAME__";
+"CFBundleDisplayName" = "__NAME__";
+"__IME_ID__" = "__NAME__";
+"__IME_ID__.Phonetic" = "__NAME__";

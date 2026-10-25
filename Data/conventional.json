@@ -1,0 +1,982 @@
+{
+ "format": "bornolipi.conventional",
+ "version": 1,
+ "note": "Conventional spellings offered after the exact Avro conversion; they never change what Space inserts. case=upper entries apply only to input typed in capitals.",
+ "entries": [
+  {
+   "roman": [
+    "sust"
+   ],
+   "bangla": [
+    "সাস্ট",
+    "শাবিপ্রবি"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "maintainer-specified"
+  },
+  {
+   "roman": [
+    "buet"
+   ],
+   "bangla": [
+    "বুয়েট"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "maintainer-specified"
+  },
+  {
+   "roman": [
+    "cuet"
+   ],
+   "bangla": [
+    "চুয়েট"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "maintainer-specified"
+  },
+  {
+   "roman": [
+    "ruet"
+   ],
+   "bangla": [
+    "রুয়েট"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "maintainer-specified"
+  },
+  {
+   "roman": [
+    "kuet"
+   ],
+   "bangla": [
+    "কুয়েট"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "maintainer-specified"
+  },
+  {
+   "roman": [
+    "brac"
+   ],
+   "bangla": [
+    "ব্র্যাক"
+   ],
+   "kind": "acronym",
+   "case": "any",
+   "source": "pronounced as a word (BRAC University, BRAC Bank)"
+  },
+  {
+   "roman": [
+    "du"
+   ],
+   "bangla": [
+    "ঢাবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "ju"
+   ],
+   "bangla": [
+    "জাবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "cu"
+   ],
+   "bangla": [
+    "চবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "ru"
+   ],
+   "bangla": [
+    "রাবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "ku"
+   ],
+   "bangla": [
+    "খুবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "jnu"
+   ],
+   "bangla": [
+    "জবি"
+   ],
+   "kind": "acronym",
+   "case": "upper",
+   "source": "common Bengali short form of the university name"
+  },
+  {
+   "roman": [
+    "dhaka"
+   ],
+   "bangla": [
+    "ঢাকা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "faridpur"
+   ],
+   "bangla": [
+    "ফরিদপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "tangail"
+   ],
+   "bangla": [
+    "টাঙ্গাইল"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "gazipur"
+   ],
+   "bangla": [
+    "গাজীপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "narayanganj"
+   ],
+   "bangla": [
+    "নারায়ণগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "kishoreganj"
+   ],
+   "bangla": [
+    "কিশোরগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "narsingdi"
+   ],
+   "bangla": [
+    "নরসিংদী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "munshiganj"
+   ],
+   "bangla": [
+    "মুন্সীগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "manikganj"
+   ],
+   "bangla": [
+    "মানিকগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "gopalganj"
+   ],
+   "bangla": [
+    "গোপালগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "shariatpur"
+   ],
+   "bangla": [
+    "শরীয়তপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "madaripur"
+   ],
+   "bangla": [
+    "মাদারীপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "rajbari"
+   ],
+   "bangla": [
+    "রাজবাড়ী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "chittagong",
+    "chattogram"
+   ],
+   "bangla": [
+    "চট্টগ্রাম"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "cumilla",
+    "comilla"
+   ],
+   "bangla": [
+    "কুমিল্লা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "noakhali"
+   ],
+   "bangla": [
+    "নোয়াখালী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "rangamati"
+   ],
+   "bangla": [
+    "রাঙ্গামাটি"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "bandarban"
+   ],
+   "bangla": [
+    "বান্দরবান"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "khagrachhari",
+    "khagrachari"
+   ],
+   "bangla": [
+    "খাগড়াছড়ি"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "brahmanbaria"
+   ],
+   "bangla": [
+    "ব্রাহ্মণবাড়িয়া"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "coxsbazar",
+    "coxsbazaar",
+    "coxbazar"
+   ],
+   "bangla": [
+    "কক্সবাজার"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "chandpur"
+   ],
+   "bangla": [
+    "চাঁদপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "lakshmipur",
+    "laxmipur"
+   ],
+   "bangla": [
+    "লক্ষ্মীপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "feni"
+   ],
+   "bangla": [
+    "ফেনী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "rajshahi"
+   ],
+   "bangla": [
+    "রাজশাহী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "bogura",
+    "bogra"
+   ],
+   "bangla": [
+    "বগুড়া"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "pabna"
+   ],
+   "bangla": [
+    "পাবনা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "joypurhat"
+   ],
+   "bangla": [
+    "জয়পুরহাট"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "sirajganj"
+   ],
+   "bangla": [
+    "সিরাজগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "naogaon"
+   ],
+   "bangla": [
+    "নওগাঁ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "natore"
+   ],
+   "bangla": [
+    "নাটোর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "chapainawabganj"
+   ],
+   "bangla": [
+    "চাঁপাইনবাবগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "jashore",
+    "jessore"
+   ],
+   "bangla": [
+    "যশোর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "khulna"
+   ],
+   "bangla": [
+    "খুলনা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "kushtia"
+   ],
+   "bangla": [
+    "কুষ্টিয়া"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "satkhira"
+   ],
+   "bangla": [
+    "সাতক্ষীরা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "jhenaidah"
+   ],
+   "bangla": [
+    "ঝিনাইদহ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "bagerhat"
+   ],
+   "bangla": [
+    "বাগেরহাট"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "chuadanga"
+   ],
+   "bangla": [
+    "চুয়াডাঙ্গা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "magura"
+   ],
+   "bangla": [
+    "মাগুরা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "narail"
+   ],
+   "bangla": [
+    "নড়াইল"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "meherpur"
+   ],
+   "bangla": [
+    "মেহেরপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "barishal",
+    "barisal"
+   ],
+   "bangla": [
+    "বরিশাল"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "patuakhali"
+   ],
+   "bangla": [
+    "পটুয়াখালী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "bhola"
+   ],
+   "bangla": [
+    "ভোলা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "pirojpur"
+   ],
+   "bangla": [
+    "পিরোজপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "barguna"
+   ],
+   "bangla": [
+    "বরগুনা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "jhalokati",
+    "jhalakathi"
+   ],
+   "bangla": [
+    "ঝালকাঠি"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "sylhet"
+   ],
+   "bangla": [
+    "সিলেট"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "sunamganj"
+   ],
+   "bangla": [
+    "সুনামগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "habiganj"
+   ],
+   "bangla": [
+    "হবিগঞ্জ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "moulvibazar"
+   ],
+   "bangla": [
+    "মৌলভীবাজার"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "rangpur"
+   ],
+   "bangla": [
+    "রংপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "nilphamari"
+   ],
+   "bangla": [
+    "নীলফামারী"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "dinajpur"
+   ],
+   "bangla": [
+    "দিনাজপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "thakurgaon"
+   ],
+   "bangla": [
+    "ঠাকুরগাঁও"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "gaibandha"
+   ],
+   "bangla": [
+    "গাইবান্ধা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "kurigram"
+   ],
+   "bangla": [
+    "কুড়িগ্রাম"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "lalmonirhat"
+   ],
+   "bangla": [
+    "লালমনিরহাট"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "panchagarh"
+   ],
+   "bangla": [
+    "পঞ্চগড়"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "mymensingh"
+   ],
+   "bangla": [
+    "ময়মনসিংহ"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "jamalpur"
+   ],
+   "bangla": [
+    "জামালপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "netrokona"
+   ],
+   "bangla": [
+    "নেত্রকোণা"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "sherpur"
+   ],
+   "bangla": [
+    "শেরপুর"
+   ],
+   "kind": "district",
+   "case": "any",
+   "source": "Bengali: teachers.gov.bd district list; English: Wikipedia, Districts of Bangladesh"
+  },
+  {
+   "roman": [
+    "kmn"
+   ],
+   "bangla": [
+    "কেমন"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "vlo"
+   ],
+   "bangla": [
+    "ভালো"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "asi",
+    "aci"
+   ],
+   "bangla": [
+    "আছি"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "hocce",
+    "hosse",
+    "hoche"
+   ],
+   "bangla": [
+    "হচ্ছে"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "akhon"
+   ],
+   "bangla": [
+    "এখন"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "kno"
+   ],
+   "bangla": [
+    "কেন"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "kisu"
+   ],
+   "bangla": [
+    "কিছু"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "dhonnobad",
+    "donnobad",
+    "donobad",
+    "dhonyobad"
+   ],
+   "bangla": [
+    "ধন্যবাদ"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "kortesi",
+    "kortesii"
+   ],
+   "bangla": [
+    "করছি"
+   ],
+   "kind": "banglish",
+   "case": "any",
+   "source": "standard spelling of a common word, for a frequent informal Banglish spelling"
+  },
+  {
+   "roman": [
+    "kortesi"
+   ],
+   "bangla": [
+    "করতেছি"
+   ],
+   "kind": "banglish-colloquial",
+   "case": "any",
+   "source": "colloquial (regional) form, offered after the standard one"
+  },
+  {
+   "roman": [
+    "facebook"
+   ],
+   "bangla": [
+    "ফেসবুক"
+   ],
+   "kind": "loanword",
+   "case": "any",
+   "source": "the spelling used by the dictionary's inflected forms (ফেসবুকে); ফেইসবুক stays first via autocorrect"
+  }
+ ]
+}

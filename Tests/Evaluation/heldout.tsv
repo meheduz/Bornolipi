@@ -1,0 +1,142 @@
+# Held-out proper-noun cases, built by separate agents from their own reading of reliable sources (bn.wikipedia, Banglapedia, *.gov.bd), without access to Bornolipi's data. Not used to build Data/propernouns.json.
+# input	expected	category	source	kind
+savar	সাভার	heldout-upazila	bn.wikipedia: সাভার উপজেলা (Dhaka District)	expect
+dhamrai	ধামরাই	heldout-upazila	bn.wikipedia: ধামরাই উপজেলা (Dhaka District)	expect
+keranigonj	কেরানীগঞ্জ	heldout-upazila	bn.wikipedia: কেরানীগঞ্জ উপজেলা (Dhaka District)	expect
+nawabgonj	নবাবগঞ্জ	heldout-upazila	bn.wikipedia: নবাবগঞ্জ উপজেলা, ঢাকা	expect
+tongi	টঙ্গী	heldout-upazila	bn.wikipedia: টঙ্গী (Gazipur District)	expect
+kaliakoir	কালিয়াকৈর	heldout-upazila	bn.wikipedia: কালিয়াকৈর উপজেলা (Gazipur District)	expect
+sreepur	শ্রীপুর	heldout-upazila	bn.wikipedia: শ্রীপুর উপজেলা, গাজীপুর	expect
+rupgonj	রূপগঞ্জ	heldout-upazila	bn.wikipedia: রূপগঞ্জ উপজেলা (Narayanganj District)	expect
+sonargaon	সোনারগাঁও	heldout-upazila	bn.wikipedia: সোনারগাঁও উপজেলা (Narayanganj District)	expect
+araihazar	আড়াইহাজার	heldout-upazila	bn.wikipedia: আড়াইহাজার উপজেলা (Narayanganj District)	expect
+bhairab	ভৈরব	heldout-upazila	bn.wikipedia: ভৈরব উপজেলা (Kishoreganj District)	expect
+bajitpur	বাজিতপুর	heldout-upazila	bn.wikipedia: বাজিতপুর উপজেলা (Kishoreganj District)	expect
+mirzapur	মির্জাপুর	heldout-upazila	bn.wikipedia: মির্জাপুর উপজেলা, টাঙ্গাইল	expect
+madhupur	মধুপুর	heldout-upazila	bn.wikipedia: মধুপুর উপজেলা (Tangail District)	expect
+shibchor	শিবচর	heldout-upazila	bn.wikipedia: শিবচর উপজেলা (Madaripur District)	expect
+monohordi	মনোহরদী	heldout-upazila	bn.wikipedia: মনোহরদী উপজেলা (Narsingdi District)	expect
+tungipara	টুঙ্গিপাড়া	heldout-upazila	bn.wikipedia: টুঙ্গিপাড়া উপজেলা (Gopalganj District)	expect
+godagari	গোদাগাড়ী	heldout-upazila	bn.wikipedia: গোদাগাড়ী উপজেলা (Rajshahi)	expect
+puthia	পুঠিয়া	heldout-upazila	bn.wikipedia: পুঠিয়া উপজেলা (Rajshahi)	expect
+bagmara	বাগমারা	heldout-upazila	bn.wikipedia: বাগমারা উপজেলা (Rajshahi)	expect
+charghat	চারঘাট	heldout-upazila	bn.wikipedia: চারঘাট উপজেলা (Rajshahi)	expect
+nachol	নাচোল	heldout-upazila	bn.wikipedia: নাচোল উপজেলা (Chapainawabganj)	expect
+gomostapur	গোমস্তাপুর	heldout-upazila	bn.wikipedia: গোমস্তাপুর উপজেলা (Chapainawabganj)	expect
+atrai	আত্রাই	heldout-upazila	bn.wikipedia: আত্রাই উপজেলা (Naogaon)	expect
+mohadebpur	মহাদেবপুর	heldout-upazila	bn.wikipedia: মহাদেবপুর উপজেলা (Naogaon)	expect
+sapahar	সাপাহার	heldout-upazila	bn.wikipedia: সাপাহার উপজেলা (Naogaon)	expect
+gurudashpur	গুরুদাসপুর	heldout-upazila	bn.wikipedia: গুরুদাসপুর উপজেলা (Natore)	expect
+singra	সিংড়া	heldout-upazila	bn.wikipedia: সিংড়া উপজেলা (Natore)	expect
+sariakandi	সারিয়াকান্দি	heldout-upazila	bn.wikipedia: সারিয়াকান্দি উপজেলা (Bogura)	expect
+panchbibi	পাঁচবিবি	heldout-upazila	bn.wikipedia: পাঁচবিবি উপজেলা (Joypurhat)	expect
+iswardi	ঈশ্বরদী	heldout-upazila	bn.wikipedia: ঈশ্বরদী উপজেলা (Pabna)	expect
+chatmohor	চাটমোহর	heldout-upazila	bn.wikipedia: চাটমোহর উপজেলা (Pabna)	expect
+ullapara	উল্লাপাড়া	heldout-upazila	bn.wikipedia: উল্লাপাড়া উপজেলা (Sirajganj)	expect
+shahjadpur	শাহজাদপুর	heldout-upazila	bn.wikipedia: শাহজাদপুর উপজেলা (Sirajganj)	expect
+companiganj	কোম্পানীগঞ্জ	heldout-upazila	bn.wikipedia: কোম্পানীগঞ্জ উপজেলা, সিলেট	expect
+gowainghat	গোয়াইনঘাট	heldout-upazila	bn.wikipedia: গোয়াইনঘাট উপজেলা	expect
+jaintapur	জৈন্তাপুর	heldout-upazila	bn.wikipedia: জৈন্তাপুর উপজেলা	expect
+kanaighat	কানাইঘাট	heldout-upazila	bn.wikipedia: কানাইঘাট উপজেলা	expect
+biswanath	বিশ্বনাথ	heldout-upazila	bn.wikipedia: বিশ্বনাথ উপজেলা	expect
+golapgonj	গোলাপগঞ্জ	heldout-upazila	bn.wikipedia: গোলাপগঞ্জ উপজেলা	expect
+beanibazar	বিয়ানীবাজার	heldout-upazila	bn.wikipedia: বিয়ানীবাজার উপজেলা	expect
+sreemongol	শ্রীমঙ্গল	heldout-upazila	bn.wikipedia: শ্রীমঙ্গল উপজেলা	expect
+kulaura	কুলাউড়া	heldout-upazila	bn.wikipedia: কুলাউড়া উপজেলা	expect
+komolgonj	কমলগঞ্জ	heldout-upazila	bn.wikipedia: কমলগঞ্জ উপজেলা	expect
+barlekha	বড়লেখা	heldout-upazila	bn.wikipedia: বড়লেখা উপজেলা	expect
+chunarughat	চুনারুঘাট	heldout-upazila	bn.wikipedia: চুনারুঘাট উপজেলা	expect
+nabigonj	নবীগঞ্জ	heldout-upazila	bn.wikipedia: নবীগঞ্জ উপজেলা	expect
+bahubal	বাহুবল	heldout-upazila	bn.wikipedia: বাহুবল উপজেলা	expect
+chhatak	ছাতক	heldout-upazila	bn.wikipedia: ছাতক উপজেলা	expect
+tahirpur	তাহিরপুর	heldout-upazila	bn.wikipedia: তাহিরপুর উপজেলা	expect
+derai	দিরাই	heldout-upazila	bn.wikipedia: দিরাই উপজেলা	expect
+chittagong	চট্টগ্রাম	heldout-city	bn.wikipedia: চট্টগ্রাম সিটি কর্পোরেশন	expect
+narayangonj	নারায়ণগঞ্জ	heldout-city	bn.wikipedia: নারায়ণগঞ্জ সিটি কর্পোরেশন	expect
+shylet	সিলেট	heldout-city	bn.wikipedia: সিলেট সিটি কর্পোরেশন	expect
+rajshahi	রাজশাহী	heldout-city	bn.wikipedia: রাজশাহী সিটি কর্পোরেশন	expect
+khulna	খুলনা	heldout-city	bn.wikipedia: খুলনা সিটি কর্পোরেশন	expect
+borishal	বরিশাল	heldout-city	bn.wikipedia: বরিশাল সিটি কর্পোরেশন	expect
+mymensing	ময়মনসিংহ	heldout-city	bn.wikipedia: ময়মনসিংহ সিটি কর্পোরেশন	expect
+gajipur	গাজীপুর	heldout-city	bn.wikipedia: গাজীপুর সিটি কর্পোরেশন	expect
+comilla	কুমিল্লা	heldout-city	bn.wikipedia: কুমিল্লা সিটি কর্পোরেশন	expect
+rongpur	রংপুর	heldout-city	bn.wikipedia: রংপুর সিটি কর্পোরেশন	expect
+ashulia	আশুলিয়া	heldout-city	bn.wikipedia: আশুলিয়া	expect
+bhairob	ভৈরব	heldout-city	bn.wikipedia: ভৈরব উপজেলা	expect
+srimongol	শ্রীমঙ্গল	heldout-city	bn.wikipedia: শ্রীমঙ্গল উপজেলা	expect
+soidpur	সৈয়দপুর	heldout-city	bn.wikipedia: সৈয়দপুর উপজেলা	expect
+jessor	যশোর	heldout-city	bn.wikipedia: যশোর জেলা	expect
+jahangirnogor	জাহাঙ্গীরনগর বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/জাহাঙ্গীরনগর_বিশ্ববিদ্যালয়	expect
+rajshahi	রাজশাহী বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/রাজশাহী_বিশ্ববিদ্যালয়	expect
+chittagong	চট্টগ্রাম বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/চট্টগ্রাম_বিশ্ববিদ্যালয়	expect
+shahjalal	শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/শাহজালাল_বিজ্ঞান_ও_প্রযুক্তি_বিশ্ববিদ্যালয়	expect
+khulna	খুলনা বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/খুলনা_বিশ্ববিদ্যালয়	expect
+jogonnath	জগন্নাথ বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/জগন্নাথ_বিশ্ববিদ্যালয়	expect
+islami	ইসলামী বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/ইসলামী_বিশ্ববিদ্যালয়,_বাংলাদেশ	expect
+comilla	কুমিল্লা বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/কুমিল্লা_বিশ্ববিদ্যালয়	expect
+borishal	বরিশাল বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/বরিশাল_বিশ্ববিদ্যালয়	expect
+jatiyo	জাতীয় বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/জাতীয়_বিশ্ববিদ্যালয়	expect
+krishi	বাংলাদেশ কৃষি বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/বাংলাদেশ_কৃষি_বিশ্ববিদ্যালয়	expect
+brac	ব্র্যাক বিশ্ববিদ্যালয়	heldout-university	bn.wikipedia.org/wiki/ব্র্যাক_বিশ্ববিদ্যালয়	expect
+daffodil	ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটি	heldout-university	bn.wikipedia.org/wiki/ড্যাফোডিল_ইন্টারন্যাশনাল_ইউনিভার্সিটি	expect
+sonali	সোনালী	heldout-bank	bn.wikipedia: সোনালী ব্যাংক পিএলসি	expect
+janota	জনতা	heldout-bank	bn.wikipedia: জনতা ব্যাংক পিএলসি	expect
+agrani	অগ্রণী	heldout-bank	bn.wikipedia: অগ্রণী ব্যাংক পিএলসি	expect
+rupali	রূপালী	heldout-bank	bn.wikipedia: রূপালী ব্যাংক পিএলসি	expect
+pubali	পূবালী	heldout-bank	bn.wikipedia: পূবালী ব্যাংক পিএলসি	expect
+uttara	উত্তরা	heldout-bank	bn.wikipedia: উত্তরা ব্যাংক পিএলসি	expect
+dutchbangla	ডাচ্-বাংলা	heldout-bank	bn.wikipedia: ডাচ্-বাংলা ব্যাংক পিএলসি	expect
+jamuna	যমুনা	heldout-bank	bn.wikipedia: যমুনা ব্যাংক পিএলসি	expect
+sochibaloy	সচিবালয়	heldout-agency	bn.wikipedia: বাংলাদেশ সচিবালয়	expect
+bongobhobon	বঙ্গভবন	heldout-agency	bn.wikipedia: বঙ্গভবন	expect
+podda	পদ্মা	heldout-river	bn.wikipedia: পদ্মা নদী	expect
+meghna	মেঘনা	heldout-river	bn.wikipedia: মেঘনা নদী	expect
+jomuna	যমুনা	heldout-river	bn.wikipedia: যমুনা নদী (বাংলাদেশ)	expect
+brommoputro	ব্রহ্মপুত্র	heldout-river	bn.wikipedia: ব্রহ্মপুত্র নদ	expect
+karnafuli	কর্ণফুলী	heldout-river	bn.wikipedia: কর্ণফুলী নদী	expect
+tista	তিস্তা	heldout-river	bn.wikipedia: তিস্তা নদী	expect
+surma	সুরমা	heldout-river	bn.wikipedia: সুরমা নদী	expect
+buriganga	বুড়িগঙ্গা	heldout-river	bn.wikipedia: বুড়িগঙ্গা নদী	expect
+rupsha	রূপসা	heldout-river	bn.wikipedia: রূপসা নদী	expect
+kushiara	কুশিয়ারা	heldout-river	bn.wikipedia: কুশিয়ারা নদী	expect
+sangu	সাঙ্গু	heldout-river	bn.wikipedia: সাঙ্গু নদী	expect
+dhaleswari	ধলেশ্বরী	heldout-river	bn.wikipedia: ধলেশ্বরী নদী	expect
+shitolokkha	শীতলক্ষ্যা	heldout-river	bn.wikipedia: শীতলক্ষ্যা নদী	expect
+turag	তুরাগ	heldout-river	bn.wikipedia: তুরাগ নদ	expect
+gorai	গড়াই	heldout-river	bn.wikipedia: গড়াই নদী	expect
+matamuhuri	মাতামুহুরী	heldout-river	bn.wikipedia: মাতামুহুরী নদী	expect
+mohanonda	মহানন্দা	heldout-river	bn.wikipedia: মহানন্দা নদী	expect
+kopotakkho	কপোতাক্ষ	heldout-river	bn.wikipedia: কপোতাক্ষ নদ	expect
+grameenphone	গ্রামীণফোন	heldout-company	bn.wikipedia: গ্রামীণফোন	expect
+robi	রবি	heldout-company	bn.wikipedia: রবি (কোম্পানি)	expect
+banglalink	বাংলালিংক	heldout-company	bn.wikipedia: বাংলালিংক	expect
+teletalk	টেলিটক	heldout-company	bn.wikipedia: টেলিটক	expect
+bikash	বিকাশ	heldout-company	bn.wikipedia: বিকাশ	expect
+nogod	নগদ	heldout-company	bn.wikipedia: নগদ	expect
+pathao	পাঠাও	heldout-company	bn.wikipedia: পাঠাও	expect
+daraz	দারাজ	heldout-company	bn.wikipedia: দারাজ	expect
+walton	ওয়ালটন	heldout-company	bn.wikipedia: ওয়ালটন	expect
+beximco	বেক্সিমকো	heldout-company	bn.wikipedia: বেক্সিমকো	expect
+pran	প্রাণ	heldout-company	bn.wikipedia: প্রাণ-আরএফএল গ্রুপ	expect
+akij	আকিজ	heldout-company	bn.wikipedia: আকিজ গ্রুপ	expect
+bashundhara	বসুন্ধরা	heldout-company	bn.wikipedia: বসুন্ধরা গ্রুপ	expect
+square	স্কয়ার	heldout-company	bn.wikipedia: স্কয়ার গ্রুপ	expect
+rahman	রহমান	heldout-name	bn.wikipedia: শেখ মুজিবুর রহমান	expect
+hossain	হোসেন	heldout-name	bn.wikipedia: শাহাবুদ্দিন আহমেদ / কামাল হোসেন	expect
+islam	ইসলাম	heldout-name	bn.wikipedia: কাজী নজরুল ইসলাম	expect
+ahmed	আহমেদ	heldout-name	bn.wikipedia: হুমায়ূন আহমেদ	expect
+chowdhury	চৌধুরী	heldout-name	bn.wikipedia: মুনীর চৌধুরী	expect
+uddin	উদ্দিন	heldout-name	bn.wikipedia: জসীম উদ্দীন is variant; শিহাব উদ্দিন style common; used in ফখরুদ্দীন articles	expect
+akter	আক্তার	heldout-name	bn.wikipedia: শাহীন আক্তার	expect
+begum	বেগম	heldout-name	bn.wikipedia: বেগম রোকেয়া	expect
+khatun	খাতুন	heldout-name	bn.wikipedia: ফজিলাতুন্নেছা / শামসুন নাহার খাতুন articles	expect
+sarkar	সরকার	heldout-name	bn.wikipedia: সরকার (surname) e.g. সুধীর সরকার	expect
+talukder	তালুকদার	heldout-name	bn.wikipedia: আবদুল মান্নান তালুকদার	expect
+siddique	সিদ্দিকী	heldout-name	bn.wikipedia: কাদের সিদ্দিকী	expect
+mohammad	মোহাম্মদ	heldout-name	bn.wikipedia: মোহাম্মদ আশরাফুল	expect
+abdul	আবদুল	heldout-name	bn.wikipedia: আবদুল হামিদ	expect
+shakib	সাকিব	heldout-name	bn.wikipedia: সাকিব আল হাসান	expect
+tamim	তামিম	heldout-name	bn.wikipedia: তামিম ইকবাল	expect
+mehedi	মেহেদী	heldout-name	bn.wikipedia: মেহেদী হাসান মিরাজ	expect
+barua	বড়ুয়া	heldout-name	bn.wikipedia: বড়ুয়া surname e.g. বেণীমাধব বড়ুয়া	expect
+mondol	মণ্ডল	heldout-name	bn.wikipedia: মণ্ডল surname articles	expect

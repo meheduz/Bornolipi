@@ -1,0 +1,55 @@
+# Builds, lints, tests and packages on every push and pull request. Nothing is published:
+# the unsigned DMG is only kept as a workflow artifact for two weeks.
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# Read-only token: CI never writes to the repository or publishes anything.
+permissions:
+  contents: read
+
+jobs:
+  macos:
+    name: macOS
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - name: Toolchain
+        run: sw_vers && xcodebuild -version && swift --version
+      - name: Lint (swift-format rules, warnings as errors)
+        run: scripts/lint.sh
+      - name: Unit and property tests
+        run: swift test
+      - name: Security checks (secrets, network code, workflow pinning, system paths)
+        run: scripts/check-security.sh
+      - name: Suggestion quality (evaluation corpus and held-out proper nouns)
+        run: |
+          swift run -c release bangla-eval
+          swift run -c release bangla-eval --corpus Tests/Evaluation/heldout.tsv
+          swift run -c release bangla-eval --corpus Tests/Evaluation/development.tsv
+          swift run -c release bangla-eval --corpus Tests/Evaluation/independent.tsv
+      - name: Benchmarks (informational; shared runners are noisy)
+        run: swift run -c release bangla-bench
+      - name: Universal app bundle
+        run: ARCHS="arm64 x86_64" scripts/build.sh
+      - name: DMG (ad-hoc signed, not notarized)
+        run: |
+          python3 -m venv build/.venv && build/.venv/bin/pip install -q dmgbuild==1.6.5
+          scripts/make-dmg.sh
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: Bornolipi-dmg
+          path: build/Bornolipi-*.dmg
+          retention-days: 14
+
+  linux:
+    name: Linux (engine)
+    runs-on: ubuntu-latest
+    container: swift:6.1
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - name: Unit and property tests
+        run: swift test
