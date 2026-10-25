@@ -1,0 +1,52 @@
+name: Beta installation report
+description: Tell us how installing Bornolipi went on your Mac (it helps even when everything worked)
+title: "Install report: macOS <version>, <worked / did not work>"
+labels: ["beta-install-report"]
+body:
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: Apple menu > About This Mac (for example 15.3 or 27.0.1)
+    validations:
+      required: true
+  - type: dropdown
+    id: chip
+    attributes:
+      label: Mac type
+      options: ["Apple silicon (M1 or later)", "Intel", "Not sure"]
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: Installation result
+      options:
+        - "Installed, added in Input Sources, and typing works"
+        - "Installed, but Bornolipi is not listed under Bangla when I click + in Input Sources"
+        - "Installed and added, but typing does not work"
+        - "Could not install or open Bornolipi"
+    validations:
+      required: true
+  - type: dropdown
+    id: listed
+    attributes:
+      label: Did Bornolipi appear in System Settings > Keyboard > Input Sources > Edit… > + > Bangla?
+      options: ["Yes", "No", "Only after restarting System Settings", "I did not get that far"]
+    validations:
+      required: true
+  - type: dropdown
+    id: before
+    attributes:
+      label: Had you added other keyboards in Input Sources before installing Bornolipi?
+      options: ["Yes", "No", "Not sure"]
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostic report
+      description: In the Bornolipi app, use Copy Diagnostic Report and paste it here. It never contains anything you typed.
+      render: text
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

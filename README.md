@@ -30,6 +30,14 @@ suite also runs as x86_64 under Rosetta, but it has **not been tried on an Intel
 | Performance | A key press takes about 11 µs typically and under 100 µs at p99 (Apple silicon); engine load about 60 ms; about 34 MB with the dictionary loaded. |
 | Distribution | Free: a universal disk image on GitHub Releases. **Not Developer ID signed and not notarized**; first launch is allowed with Apple's Open Anyway button, see [docs/INSTALL.md](docs/INSTALL.md). |
 
+## Beta feedback
+
+This is a limited public beta. After installing, please file a short
+[installation report](https://github.com/meheduz/Bornolipi/issues/new?template=install-report.yml)
+with your macOS version, whether installation worked, and whether Bornolipi appeared under Bangla in
+System Settings > Keyboard > Input Sources > Edit… > +. Reports from Macs where everything worked are
+just as useful. Installation has been verified on one Mac (Apple silicon, macOS 27) only.
+
 ## Known limitations
 
 - Not signed with a Developer ID and not notarized: the first launch needs Apple's **Open Anyway**
