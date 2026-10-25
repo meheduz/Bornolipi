@@ -70,6 +70,8 @@ plist Resources/Setup-Info.plist "$APP/Contents/Info.plist"
 cp LICENSE NOTICE.md "$APP/Contents/Resources/"
 [ -f "$ICONS/AppIcon.icns" ] && cp "$ICONS/AppIcon.icns" "$APP/Contents/Resources/"
 
+# Debug symbols carry absolute build paths (the builder's home folder); the shipped executables do not need them.
+strip -S "$APP/Contents/MacOS/Bornolipi" "$IME/Contents/MacOS/$IME_EXEC"
 echo "==> Signing ($SIGN_IDENTITY), inside out"
 sign() {
     if [ "$SIGN_IDENTITY" = "-" ]; then codesign --force --sign - "$1"
