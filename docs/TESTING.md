@@ -43,7 +43,7 @@ and of the security checks) keeps scripts away from them too.
 | `scripts/test.sh bench` | latency, load time, memory |
 | `scripts/test.sh release` | builds a scratch release image (never overwrites one) and validates it |
 
-## Automated: `swift test` (247 tests in two bundles, all pass)
+## Automated: `swift test` (249 tests in two bundles, all pass)
 
 157 engine tests and 30 installer tests, in the folders above.
 

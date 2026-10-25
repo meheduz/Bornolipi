@@ -5,9 +5,11 @@ import Carbon
 /// The list of keyboards that System Settings offers under Keyboard > Input Sources > +.
 ///
 /// That pane keeps its own copy of macOS's keyboard list in its cache folder. On macOS 27 that copy
-/// can go stale: written once and not refreshed for keyboards installed later, even after logging out
-/// or restarting (seen on the development Mac). Then Bornolipi is installed and known to macOS but cannot be
-/// added. Bornolipi only reads this copy, to explain the situation to the user; it never changes it.
+/// can go stale: written once and not refreshed for keyboards installed later. On the development Mac
+/// it was not refreshed by registering, reopening System Settings, logging out or restarting, and
+/// installing to /Library/Input Methods instead of ~/Library did not help either. Then Bornolipi is
+/// installed and known to macOS but cannot be added. Bornolipi only reads this copy, to explain the
+/// situation to the user; it never changes it.
 public enum KeyboardList {
     static var folder: URL {
         // The per-user Darwin cache folder (/var/folders/…/C), not ~/Library/Caches.
@@ -21,9 +23,16 @@ public enum KeyboardList {
 
     /// Whether the pane's list includes Bornolipi: true, false, or nil when it cannot be told (the pane
     /// has never been opened, or the file cannot be read).
-    public static var includesBornolipi: Bool? {
-        guard let data = try? Data(contentsOf: folder.appendingPathComponent(listFile)) else { return nil }
+    public static var includesBornolipi: Bool? { includesBornolipi(listAt: folder.appendingPathComponent(listFile)) }
+
+    static func includesBornolipi(listAt url: URL) -> Bool? {
+        guard let data = try? Data(contentsOf: url) else { return nil }
         return contains(data, Keyboard.modeID)
+    }
+
+    /// When the pane last wrote its list (for the diagnostic report), or nil if it has none.
+    public static var lastWritten: Date? {
+        (try? FileManager.default.attributesOfItem(atPath: folder.appendingPathComponent(listFile).path))?[.modificationDate] as? Date
     }
 
     static func contains(_ data: Data, _ text: String) -> Bool {

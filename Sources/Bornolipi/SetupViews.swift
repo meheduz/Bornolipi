@@ -217,7 +217,7 @@ struct StaleListFix: View {
 
     var body: some View {
         HelpBox(title: "Bornolipi isn't in the keyboard list yet",
-                detail: "Bornolipi is installed, but System Settings is showing an older list of keyboards. Restart System Settings, then click + and look under Bangla again. If Bornolipi still doesn't appear, log out and back in, or report the problem.")
+                detail: "Bornolipi is installed and macOS knows about it, but System Settings is showing an older list of keyboards. Restart System Settings, then click + and look under Bangla again. If Bornolipi is still missing, this is a macOS problem that Bornolipi cannot fix by itself: click Report a Problem (it includes a diagnostic report, never anything you typed) and we will help.")
     }
 }
 
@@ -225,7 +225,7 @@ struct StaleListFix: View {
 struct NotListedHelp: View {
     var body: some View {
         HelpBox(title: "Don't see Bornolipi in the list?",
-                detail: "System Settings reads the list when it opens, so it can miss a keyboard installed while it was open. Restart it, then look under Bangla again. Still missing? Log out and back in (Apple menu > Log Out), then open Bornolipi again.")
+                detail: "System Settings reads the list when it opens, so it can miss a keyboard installed while it was open. Restart it, then look under Bangla again. Still missing? Click Repair Installation, restart System Settings once more, and if Bornolipi still isn't there, click Report a Problem.")
     }
 }
 

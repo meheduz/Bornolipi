@@ -32,3 +32,22 @@ final class KeyboardListTests: XCTestCase {
     }
 }
 #endif
+
+final class KeyboardListFileTests: XCTestCase {
+    func testListFileIsReadNotRequired() throws {
+        let dir = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString)
+        try FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
+        defer { try? FileManager.default.removeItem(at: dir) }
+        let list = dir.appendingPathComponent(KeyboardList.listFile)
+        XCTAssertNil(KeyboardList.includesBornolipi(listAt: list), "no list yet: cannot tell")
+        try Data("\0io.example.inputmethod.Other.Phonetic\0".utf8).write(to: list)
+        XCTAssertEqual(KeyboardList.includesBornolipi(listAt: list), false, "a stale list is reported as missing Bornolipi")
+        try Data("\0io.github.meheduz.inputmethod.Bornolipi.Phonetic\0".utf8).write(to: list)
+        XCTAssertEqual(KeyboardList.includesBornolipi(listAt: list), true)
+    }
+
+    func testOnlyTheModeCounts() {
+        // The input method's own ID can be listed without its mode; only the mode can be added.
+        XCTAssertFalse(KeyboardList.contains(Data("io.github.meheduz.inputmethod.Bornolipi\0".utf8), Keyboard.modeID))
+    }
+}

@@ -43,6 +43,19 @@ Text Input Sources and IntlPreferences outside the sandbox listed Bornolipi corr
 With the user's consent, moving that one file aside (System Settings closed) made macOS rebuild it
 with Bornolipi at once. Check with `grep -c -a inputmethod.Bornolipi <that file>`. Not yet solved for end users.
 
+Investigation on 2026-10-26 (same Mac, macOS 27, with throwaway input methods whose IDs macOS had never
+seen):
+- `TISRegisterInputSource` succeeds in both `~/Library/Input Methods` and `/Library/Input Methods`
+  (installed as root with an administrator prompt). The mode is registered, enabled by its default
+  state, but the input method itself stays disabled, so it is not in the input menu.
+- `TISEnableInputSource` on the input method returns `noErr` and changes nothing. Called from an app,
+  macOS opens System Settings at Keyboard; no consent sheet appeared.
+- The pane's list did not pick up either throwaway keyboard: not after reopening System Settings (with
+  a freshly started settings extension) and not after opening the Add sheet. The system-wide install
+  behaved exactly like the per-user one, so Bornolipi stays a per-user install (no administrator
+  password).
+- Not tested: a fresh user account, other macOS versions, Intel Macs.
+
 On the development Mac the original stale files are kept, untouched since, at:
 `$(getconf DARWIN_USER_CACHE_DIR)/com.apple.Keyboard-Settings.extension/com.apple.IntlDataCache.le.kbdx.stale` and
 `$(getconf DARWIN_USER_CACHE_DIR)/com.apple.Keyboard-Settings.extension/com.apple.IntlDataCache.le.stale` (both dated 2026-10-23 19:24).

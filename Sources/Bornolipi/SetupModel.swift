@@ -180,7 +180,7 @@ final class SetupModel: ObservableObject {
         Keyboard carried by the app: \(carried)
         Keyboard installed: \(installed) at \(Keyboard.installedURL.path)
         State: \(health.summary)
-        Keyboard list in System Settings includes Bornolipi: \(listIncludesBornolipi.map { $0 ? "yes" : "no" } ?? "unknown")
+        Keyboard list in System Settings includes Bornolipi: \(listIncludesBornolipi.map { $0 ? "yes" : "no" } ?? "unknown")\(KeyboardList.lastWritten.map { " (list written \($0.formatted(.iso8601)))" } ?? "")
         Keyboard copy marked as downloaded: \(Keyboard.installedCopyIsQuarantined ? "yes" : "no")
         In use now: \(isSelected ? "yes" : "no")
         """

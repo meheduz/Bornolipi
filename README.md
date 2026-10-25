@@ -26,7 +26,7 @@ suite also runs as x86_64 under Rosetta, but it has **not been tried on an Intel
 | --- | --- |
 | Install | Drag **Bornolipi** to Applications and open it. A setup assistant installs the keyboard (no password), guides the one step macOS requires you to do yourself, detects when it is done, and offers a typing test. |
 | Management | The app shows status, and handles repair, update, keyboard settings, diagnostics and uninstall (with an option to keep or delete your data). No Terminal anywhere. |
-| Engine | Avro Phonetic conversion: Space inserts the Avro conversion (or the dictionary match Avro would offer first); suggestions follow it. 247 automated tests, including state-machine fuzzing and suggestion-quality corpora (`scripts/test.sh`, see docs/TESTING.md). |
+| Engine | Avro Phonetic conversion: Space inserts the Avro conversion (or the dictionary match Avro would offer first); suggestions follow it. 249 automated tests, including state-machine fuzzing and suggestion-quality corpora (`scripts/test.sh`, see docs/TESTING.md). |
 | Performance | A key press takes about 11 µs typically and under 100 µs at p99 (Apple silicon); engine load about 60 ms; about 34 MB with the dictionary loaded. |
 | Distribution | Free: a universal disk image on GitHub Releases. **Not Developer ID signed and not notarized**; first launch is allowed with Apple's Open Anyway button, see [docs/INSTALL.md](docs/INSTALL.md). |
 
@@ -35,8 +35,9 @@ suite also runs as x86_64 under Rosetta, but it has **not been tried on an Intel
 - Not signed with a Developer ID and not notarized: the first launch needs Apple's **Open Anyway**
   approval, and so does each update (see [docs/INSTALL.md](docs/INSTALL.md)).
 - Updates are a manual download; Bornolipi only checks for them and shows the release notes.
-- System Settings can miss a newly installed keyboard until its keyboard list refreshes
-  ([docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)).
+- On some Macs, System Settings' Add list does not show keyboards installed after it was first
+  opened, so Bornolipi cannot be added there. This is a macOS problem with no supported fix found yet;
+  please report it if it happens to you ([docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)).
 - Not tested on Intel Macs or on macOS 13–26.
 - Avro compatibility is kept even where Avro's own data is wrong: `chittagong` and `brahmanbaria`
   autocorrect to চট্রগ্রাম and ব্রাহ্মনবাড়িয়া (the standard spellings are offered next), and an
