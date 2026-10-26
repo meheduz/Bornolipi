@@ -1,7 +1,7 @@
 import XCTest
 @testable import BanglaEngine
 
-/// The contract of the integrated list (D-08): with loanword suggestions on, the list with them off is an exact
+/// The contract of the integrated list: with loanword suggestions on, the list with them off is an exact
 /// prefix, so Space and every engine candidate keep their places; at most three retrieved words follow, within the
 /// limit, with no duplicates. Checked over varied inputs × maxCandidates 2...9 × typed English × completions (and
 /// autocorrect off and NFC output at 2 and 9 candidates), with a personal word list and learned choices, on two

@@ -5,6 +5,13 @@ build/
 .DS_Store
 logs/
 .vscode/
+.idea/
+*.swp
+*~
+.venv/
+*.dSYM/
+*.profraw
+*.profdata
 # Never publish release images, signing material, crash reports or local secrets
 *.dmg
 *.p12

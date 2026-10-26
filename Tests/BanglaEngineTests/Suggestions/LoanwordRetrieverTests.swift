@@ -48,7 +48,7 @@ final class LoanwordRetrieverTests: XCTestCase {
         XCTAssertFalse(off.suggest("term").candidates.contains("টার্ম"))
     }
 
-    /// D-08 (2026-10-25): retrieved words may follow a word the dictionary already recognises. The loose generator
+    /// Retrieved words may follow a word the dictionary already recognises. The loose generator
     /// still adds nothing for janota (`LooseMatchingTests`, with the setting off); the engine's list is unchanged.
     func testARecognisedWordMayGainWordsAfterTheEngineList() {
         let a = off.suggest("janota"), b = on.suggest("janota")

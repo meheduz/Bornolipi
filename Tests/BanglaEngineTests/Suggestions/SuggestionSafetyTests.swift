@@ -45,7 +45,7 @@ final class SuggestionSafetyTests: XCTestCase {
         XCTAssertFalse(SuggestionBlocklist.isJunk("দুঃখ", inDictionary: false))
     }
 
-    /// Every prefix of innocent input that surfaced obscenities in the research: nothing blocked is
+    /// Every prefix of innocent input that surfaced obscenities in earlier testing: nothing blocked is
     /// appended, and the engine's list is the list with the setting off.
     func testTheOffensiveWordProbeReportsZero() {
         let inputs = ["chowdhu", "choudhu", "chowdhury", "chowdhur", "chudi", "chanokyer", "bhashakeo", "megaby", "baisaike",
