@@ -15,8 +15,8 @@ Mac or on macOS 13–26**.
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/typing-in-textedit.png" width="760" alt="Typing ami banglay gan gai bhalobashi in TextEdit gives আমি বাংলায় গান গাই ভালবাসি, with Bornolipi's suggestion window open">
-  <br><sub>Type English letters, get Bangla in any app. Suggestions appear as you type; Space keeps the Avro result.</sub>
+  <img src="assets/screenshots/typing-in-textedit.png" width="760" alt="অক্ষরে অক্ষরে লেখা হোক মনের না-বলা কথাগুলো। typed with Bornolipi in TextEdit, with the suggestion window open for the last word">
+  <br><sub>অক্ষরে অক্ষরে লেখা হোক মনের না-বলা কথাগুলো। Typed phonetically (<code>okkhore okkhore lekha hOk moner na-bola kothagulo.</code>) in TextEdit, with Bornolipi's suggestions for the last word.</sub>
 </p>
 
 <table>
