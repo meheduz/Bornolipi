@@ -23,5 +23,5 @@ private contact, without details. You should get a reply within a week.
 
 Each release is built with `scripts/test.sh release`, checked with `scripts/check-release.sh` and uploaded by hand. Each release
 lists the SHA-256 checksum of its disk image (`SHA256SUMS`); compare it with your download. Releases are not signed with a
-Developer ID and not notarized; see [docs/INSTALL.md](docs/INSTALL.md) for what that means and
-[docs/DECISIONS.md](docs/DECISIONS.md) (D-07) for the update design.
+Developer ID and not notarized; the [README](README.md#install) explains how to allow them with
+Apple's Open Anyway button.

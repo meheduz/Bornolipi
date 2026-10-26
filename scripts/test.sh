@@ -11,7 +11,7 @@
 #   scripts/test.sh bench      latency, load time and memory (informational)
 #   scripts/test.sh release    build a scratch release image and validate it (never overwrites)
 # Real macOS integration (typing through the system into apps) is separate and manual:
-#   scripts/e2e-test.sh and scripts/app-compat-test.sh; both use the installed keyboard (docs/TESTING.md).
+#   scripts/e2e-test.sh and scripts/app-compat-test.sh; both use the installed keyboard.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 suite="${1:-all}"

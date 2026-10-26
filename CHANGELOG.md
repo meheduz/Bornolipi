@@ -14,4 +14,4 @@ First public beta.
 - Personal dictionary, learned choices, backup and restore, all kept on your Mac.
 - The Bornolipi app: setup assistant, status, repair, update check, diagnostics and uninstall.
 - Universal (Apple silicon and Intel), macOS 13 or later. Not notarized: allow it once with Open
-  Anyway (docs/INSTALL.md).
+  Anyway (see the README).

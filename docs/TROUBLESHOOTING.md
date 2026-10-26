@@ -23,7 +23,7 @@ Problem** in the Bornolipi app. On some Macs the Keyboard settings pane keeps an
 and does not show keyboards installed later. This is a macOS problem: Bornolipi is installed and
 registered correctly, and macOS does not let any app add a keyboard for you. Logging out, restarting
 and installing for all users did not fix it on the Mac where it was seen, so we do not suggest them
-as a fix (details for developers in [DEVELOPMENT.md](DEVELOPMENT.md)).
+as a fix.
 
 **I get English letters.** Bornolipi has an English mode: press Control-Shift-B. A small
 **বাং** or **EN** bubble shows the mode. The menu bar icon stays Bornolipi's (অ) in both modes: macOS gives
