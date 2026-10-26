@@ -12,6 +12,30 @@ English spellings (`computer` offers কম্পিউটার), after its own
 macOS 13 or later, but tested only on macOS 27 on Apple silicon. It has **not been tried on an Intel
 Mac or on macOS 13–26**.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/typing-in-textedit.png" width="760" alt="Typing ami banglay gan gai bhalobashi in TextEdit gives আমি বাংলায় গান গাই ভালবাসি, with Bornolipi's suggestion window open">
+  <br><sub>Type English letters, get Bangla in any app. Suggestions appear as you type; Space keeps the Avro result.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/word-suggestions.png" alt="Suggestions for the informal spelling jekono, with যেকোনো first"></td>
+    <td width="50%"><img src="assets/screenshots/settings-window.png" alt="Bornolipi Settings, General tab, with the Suggest English loanwords (beta) option"></td>
+  </tr>
+  <tr>
+    <td><sub>Informal spellings: <code>jekono</code> offers যেকোনো. Pick with ↑ ↓ or a click.</sub></td>
+    <td><sub>Settings: typing, suggestions, and the optional English loanwords beta.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/screenshots/bangla-english-switching.png" width="760" alt="Mixed text আমি বাংলা and English, with the বাং mode bubble"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>Control-Shift-B switches between Bangla and English; a small বাং/EN bubble shows the mode.</sub></td>
+  </tr>
+</table>
+
 ## Install
 
 1. Download **Bornolipi-0.1.0-beta.1.dmg** from the [Releases page](https://github.com/meheduz/Bornolipi/releases)
@@ -24,7 +48,7 @@ Mac or on macOS 13–26**.
 3. **Follow the setup assistant.** It installs the keyboard for your user only (no administrator
    password). macOS then requires you to turn it on yourself, once: **System Settings > Keyboard >
    Input Sources > Edit… > + > Bangla > Bornolipi > Add**. The assistant notices when you are done.
-4. **Type.** Choose **Bornolipi** from the input menu (অ) in the menu bar, or press Control-Space.
+4. **Type.** Choose **Bornolipi** (ব) from the input menu in the menu bar, or press Control-Space.
 
 | Key | What it does |
 | --- | --- |
@@ -67,7 +91,7 @@ Input Sources. Reports from Macs where everything worked are just as useful. For
 - Avro compatibility is kept even where Avro's own data is wrong: `chittagong` and `brahmanbaria`
   autocorrect to চট্রগ্রাম and ব্রাহ্মনবাড়িয়া (the standard spellings are offered next), and an
   explicit `:` (visarga) is dropped when a dictionary word without it matches (`shoto:` gives শত).
-- The menu bar icon stays অ in English mode; the বাং/EN bubble shows the mode.
+- The menu bar icon stays ব in English mode; the বাং/EN bubble shows the mode.
 - After an update, apps that were open (seen with Chrome and Terminal) may need to be reopened.
 
 ## Privacy
